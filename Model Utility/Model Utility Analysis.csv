@@ -1,0 +1,109 @@
+Element,Value,Centroid.1,Lower.1,Upper.1,Property.1,V.Centroid,V.Lower,V.Upper
+Bison,Adequate Resources,57.28,20.8,85,Abundance,71,52,100
+Fairies,Adequate Resources,14,0,47,Abundance,71,52,100
+Forest of Tranquillity,Adequate Resources,56.98,21.99,85.5,Species Richness,71,52,100
+Insects,Adequate Resources,59.8,20.8,88,Species Richness,71,52,100
+Lake Danger Reeds,Adequate Resources,38,0,78.2,Abundance,71,52,100
+Native fish,Adequate Resources,61.32,28.17,86.72,Species Richness,71,52,100
+Revegetated forests,Adequate Resources,28.53,2.53,61.32,Species Richness,71,52,100
+Riparian vegetation,Adequate Resources,73.54,30.67,100,Species Richness,71,52,100
+Royal rose forest,Adequate Resources,58,23,78.9,Abundance,71,52,100
+Small mammals,Adequate Resources,43.39,23.43,65.39,Species Richness,71,52,100
+Terrestrial birds,Adequate Resources,41.44,22.04,64.96,Species Richness,71,52,100
+Water birds,Adequate Resources,53.03,19.83,82.04,Species Richness,71,52,100
+Bison,Aesthetically Pleasing Environment,72.44,24.8,100,Abundance,88,62,100
+Fairies,Aesthetically Pleasing Environment,46,14.4,83,Abundance,88,62,100
+Forest of Tranquillity,Aesthetically Pleasing Environment,56.98,21.99,85.5,Species Richness,88,62,100
+Insects,Aesthetically Pleasing Environment,17.4,0,48,Species Richness,88,62,100
+Lake Danger Reeds,Aesthetically Pleasing Environment,41,0,85.6,Abundance,88,62,100
+Native fish,Aesthetically Pleasing Environment,11,0,22.74,Species Richness,88,62,100
+Revegetated forests,Aesthetically Pleasing Environment,28.53,2.53,61.32,Species Richness,88,62,100
+Riparian vegetation,Aesthetically Pleasing Environment,57.98,23.4,88,Species Richness,88,62,100
+Royal rose forest,Aesthetically Pleasing Environment,83,32.75,100,Abundance,88,62,100
+Small mammals,Aesthetically Pleasing Environment,60.35,26.78,85.39,Species Richness,88,62,100
+Terrestrial birds,Aesthetically Pleasing Environment,57.62,22.13,84.96,Species Richness,88,62,100
+Water birds,Aesthetically Pleasing Environment,53.03,19.83,82.04,Species Richness,88,62,100
+Bison,Benign Physical Environment,17.04,0,47.4,Abundance,93,77,100
+Fairies,Benign Physical Environment,14,0,47,Abundance,93,77,100
+Forest of Tranquillity,Benign Physical Environment,42.98,16.98,85.5,Species Richness,93,77,100
+Insects,Benign Physical Environment,54,11.4,92,Species Richness,93,77,100
+Lake Danger Reeds,Benign Physical Environment,38,0,78.2,Abundance,93,77,100
+Native fish,Benign Physical Environment,11,0,22.74,Species Richness,93,77,100
+Revegetated forests,Benign Physical Environment,25.84,0,52.68,Species Richness,93,77,100
+Riparian vegetation,Benign Physical Environment,58.54,23.4,88,Species Richness,93,77,100
+Royal rose forest,Benign Physical Environment,12,0,30,Abundance,93,77,100
+Small mammals,Benign Physical Environment,37.43,1.91,71.91,Species Richness,93,77,100
+Terrestrial birds,Benign Physical Environment,36.27,0.05,71.57,Species Richness,93,77,100
+Water birds,Benign Physical Environment,15.92,0,46.52,Species Richness,93,77,100
+Bison,Cultural-Heritage Fulfilment,36.12,0,71.6,Abundance,92,76,100
+Fairies,Cultural-Heritage Fulfilment,33,0,70,Abundance,92,76,100
+Forest of Tranquillity,Cultural-Heritage Fulfilment,56.98,21.99,85.5,Species Richness,92,76,100
+Insects,Cultural-Heritage Fulfilment,59.8,20.8,88,Species Richness,92,76,100
+Lake Danger Reeds,Cultural-Heritage Fulfilment,38,0,78.2,Abundance,92,76,100
+Native fish,Cultural-Heritage Fulfilment,75.55,51.17,100,Species Richness,92,76,100
+Revegetated forests,Cultural-Heritage Fulfilment,25.84,0,51.21,Species Richness,92,76,100
+Riparian vegetation,Cultural-Heritage Fulfilment,57.98,23.4,88,Species Richness,92,76,100
+Royal rose forest,Cultural-Heritage Fulfilment,58,23,78.9,Abundance,92,76,100
+Small mammals,Cultural-Heritage Fulfilment,60.35,26.78,85.39,Species Richness,92,76,100
+Terrestrial birds,Cultural-Heritage Fulfilment,57.62,22.13,84.96,Species Richness,92,76,100
+Water birds,Cultural-Heritage Fulfilment,53.03,19.83,82.04,Species Richness,92,76,100
+Bison,Meaningful Occupation,57.28,20.8,85,Abundance,87,73,100
+Fairies,Meaningful Occupation,14,0,47,Abundance,87,73,100
+Forest of Tranquillity,Meaningful Occupation,56.98,21.99,85.5,Species Richness,87,73,100
+Insects,Meaningful Occupation,95.2,41.6,100,Species Richness,87,73,100
+Lake Danger Reeds,Meaningful Occupation,38,0,78.2,Abundance,87,73,100
+Native fish,Meaningful Occupation,78.64,51.17,100,Species Richness,87,73,100
+Revegetated forests,Meaningful Occupation,25.84,0,51.21,Species Richness,87,73,100
+Riparian vegetation,Meaningful Occupation,17.14,0,48,Species Richness,87,73,100
+Royal rose forest,Meaningful Occupation,18,0,47.7,Abundance,87,73,100
+Small mammals,Meaningful Occupation,43.39,23.43,65.39,Species Richness,87,73,100
+Terrestrial birds,Meaningful Occupation,41.44,22.04,64.96,Species Richness,87,73,100
+Water birds,Meaningful Occupation,15.92,0,46.52,Species Richness,87,73,100
+Bison,Protection (from other organisms),17.04,0,47.4,Abundance,34,14,48
+Fairies,Protection (from other organisms),14,0,47,Abundance,34,14,48
+Forest of Tranquillity,Protection (from other organisms),16.99,0,47.5,Species Richness,34,14,48
+Insects,Protection (from other organisms),11,0,41,Species Richness,34,14,48
+Lake Danger Reeds,Protection (from other organisms),10,0,44.6,Abundance,34,14,48
+Native fish,Protection (from other organisms),17.62,0,47.74,Species Richness,34,14,48
+Revegetated forests,Protection (from other organisms),8.42,0,37.63,Species Richness,34,14,48
+Riparian vegetation,Protection (from other organisms),73.54,30.67,100,Species Richness,34,14,48
+Royal rose forest,Protection (from other organisms),18,0,47.7,Abundance,34,14,48
+Small mammals,Protection (from other organisms),43.39,23.43,65.39,Species Richness,34,14,48
+Terrestrial birds,Protection (from other organisms),41.44,22.04,64.96,Species Richness,34,14,48
+Water birds,Protection (from other organisms),15.92,0,46.52,Species Richness,34,14,48
+Bison,Recreational Satisfaction,91.76,41.6,83.6,Abundance,85,59,100
+Fairies,Recreational Satisfaction,46,14.4,83,Abundance,85,59,100
+Forest of Tranquillity,Recreational Satisfaction,35.99,0,72,Species Richness,85,59,100
+Insects,Recreational Satisfaction,21,2,41,Species Richness,85,59,100
+Lake Danger Reeds,Recreational Satisfaction,10,0,44.6,Abundance,85,59,100
+Native fish,Recreational Satisfaction,61.32,28.17,86.72,Species Richness,85,59,100
+Revegetated forests,Recreational Satisfaction,8.42,0,37.63,Species Richness,85,59,100
+Riparian vegetation,Recreational Satisfaction,58.54,23.4,88,Species Richness,85,59,100
+Royal rose forest,Recreational Satisfaction,83,32.75,100,Abundance,85,59,100
+Small mammals,Recreational Satisfaction,60.35,26.78,85.39,Species Richness,85,59,100
+Terrestrial birds,Recreational Satisfaction,57.62,22.13,84.96,Species Richness,85,59,100
+Water birds,Recreational Satisfaction,53.03,19.83,82.04,Species Richness,85,59,100
+Bison,Social Fulfilment,57.28,20.8,85,Abundance,61,39,100
+Fairies,Social Fulfilment,46,14.4,83,Abundance,61,39,100
+Forest of Tranquillity,Social Fulfilment,35.99,0,72,Species Richness,61,39,100
+Insects,Social Fulfilment,21,2,41,Species Richness,61,39,100
+Lake Danger Reeds,Social Fulfilment,10,0,44.6,Abundance,61,39,100
+Native fish,Social Fulfilment,61.32,28.17,86.72,Species Richness,61,39,100
+Revegetated forests,Social Fulfilment,8.42,0,37.63,Species Richness,61,39,100
+Riparian vegetation,Social Fulfilment,58.54,23.4,88,Species Richness,61,39,100
+Royal rose forest,Social Fulfilment,83,32.75,100,Abundance,61,39,100
+Small mammals,Social Fulfilment,17.48,0,47.48,Species Richness,61,39,100
+Terrestrial birds,Social Fulfilment,41.44,22.04,64.96,Species Richness,61,39,100
+Water birds,Social Fulfilment,39.55,19.83,62.2,Species Richness,61,39,100
+Bison,Spiritual-Philosophical Fulfilment,57.28,20.8,85,Abundance,41,21,62
+Fairies,Spiritual-Philosophical Fulfilment,46,14.4,83,Abundance,41,21,62
+Forest of Tranquillity,Spiritual-Philosophical Fulfilment,56.98,21.99,85.5,Species Richness,41,21,62
+Insects,Spiritual-Philosophical Fulfilment,59.8,20.8,88,Species Richness,41,21,62
+Lake Danger Reeds,Spiritual-Philosophical Fulfilment,10,0,44.6,Abundance,41,21,62
+Native fish,Spiritual-Philosophical Fulfilment,61.32,28.17,86.72,Species Richness,41,21,62
+Revegetated forests,Spiritual-Philosophical Fulfilment,8.42,0,37.63,Species Richness,41,21,62
+Riparian vegetation,Spiritual-Philosophical Fulfilment,57.98,23.4,88,Species Richness,41,21,62
+Royal rose forest,Spiritual-Philosophical Fulfilment,46,22.75,66.5,Abundance,41,21,62
+Small mammals,Spiritual-Philosophical Fulfilment,76.3,39.22,92.91,Species Richness,41,21,62
+Terrestrial birds,Spiritual-Philosophical Fulfilment,57.62,22.13,84.96,Species Richness,41,21,62
+Water birds,Spiritual-Philosophical Fulfilment,53.03,19.83,82.04,Species Richness,41,21,62
