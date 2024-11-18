@@ -1,0 +1,109 @@
+Value,Element,Centroid,Lower,Upper,V.Centroid,V.Lower,V.Upper
+Adequate Resources,Bison,97.43,94.85,100,71,52,100
+Adequate Resources,Fairies,8.97,1.71,16.24,71,52,100
+Adequate Resources,Forest of tranquility,79.42,67.74,91.09,71,52,100
+Adequate Resources,Insects,93.55,87.1,100,71,52,100
+Adequate Resources,Lake Danger reeds,60.35,45.12,91.06,71,52,100
+Adequate Resources,Native fish,93.46,87.24,99.69,71,52,100
+Adequate Resources,Revegetated forests,20.79,10.23,31.35,71,52,100
+Adequate Resources,Riparian vegetation,31.55,20.17,42.93,71,52,100
+Adequate Resources,Royal rose forest,12.12,1.13,44.13,71,52,100
+Adequate Resources,Small mammals,45.32,21.12,67.14,71,52,100
+Adequate Resources,Terrestrial birds,61.21,14.75,74.1,71,52,100
+Adequate Resources,Water birds,41.25,21.45,69.14,71,52,100
+Aesthetically Pleasing Environment,Bison,61.14,47.12,95.86,88,62,100
+Aesthetically Pleasing Environment,Fairies,86.25,76.93,95.57,88,62,100
+Aesthetically Pleasing Environment,Forest of tranquility,86.8,74.79,98.81,88,62,100
+Aesthetically Pleasing Environment,Insects,42.12,21.45,87.83,88,62,100
+Aesthetically Pleasing Environment,Lake Danger reeds,38.14,19.45,75.5,88,62,100
+Aesthetically Pleasing Environment,Native fish,4.21,0.5,20.98,88,62,100
+Aesthetically Pleasing Environment,Revegetated forests,21.21,3.54,40.17,88,62,100
+Aesthetically Pleasing Environment,Riparian vegetation,59.87,46.98,72.75,88,62,100
+Aesthetically Pleasing Environment,Royal rose forest,67.32,53.42,81.22,88,62,100
+Aesthetically Pleasing Environment,Small mammals,54.76,36.75,72.78,88,62,100
+Aesthetically Pleasing Environment,Terrestrial birds,76.56,60.77,92.35,88,62,100
+Aesthetically Pleasing Environment,Water birds,71.94,53.98,89.91,88,62,100
+Benign Physical Environment,Bison,5.1,1.2,21.47,93,77,100
+Benign Physical Environment,Fairies,8.19,0,16.38,93,77,100
+Benign Physical Environment,Forest of tranquility,35.19,19.2,51.19,93,77,100
+Benign Physical Environment,Insects,57.52,37.67,77.37,93,77,100
+Benign Physical Environment,Lake Danger reeds,77.67,63.71,91.63,93,77,100
+Benign Physical Environment,Native fish,12.14,3.2,41.25,93,77,100
+Benign Physical Environment,Revegetated forests,89.04,79.49,98.58,93,77,100
+Benign Physical Environment,Riparian vegetation,66.28,53.62,78.93,93,77,100
+Benign Physical Environment,Royal rose forest,2.88,0.02,5.74,93,77,100
+Benign Physical Environment,Small mammals,15.1,1.46,28.74,93,77,100
+Benign Physical Environment,Terrestrial birds,26.68,8.13,45.23,93,77,100
+Benign Physical Environment,Water birds,17.07,1.7,32.44,93,77,100
+Cultural-Heritage Fulfilment,Bison,78.42,62.16,94.67,92,76,100
+Cultural-Heritage Fulfilment,Fairies,60.87,49.76,71.99,92,76,100
+Cultural-Heritage Fulfilment,Forest of tranquility,80.78,68.83,92.73,92,76,100
+Cultural-Heritage Fulfilment,Insects,74.86,60.22,89.49,92,76,100
+Cultural-Heritage Fulfilment,Lake Danger reeds,61.67,45.95,77.39,92,76,100
+Cultural-Heritage Fulfilment,Native fish,80.37,68.03,92.71,92,76,100
+Cultural-Heritage Fulfilment,Revegetated forests,12,5.2,43.32,92,76,100
+Cultural-Heritage Fulfilment,Riparian vegetation,55.32,41.56,69.08,92,76,100
+Cultural-Heritage Fulfilment,Royal rose forest,12,8.3,56.1,92,76,100
+Cultural-Heritage Fulfilment,Small mammals,69.91,55.26,84.57,92,76,100
+Cultural-Heritage Fulfilment,Terrestrial birds,81.23,48.44,95.14,92,76,100
+Cultural-Heritage Fulfilment,Water birds,84.29,44.46,90.47,92,76,100
+Meaningful Occupation,Bison,96.71,93.42,100,87,73,100
+Meaningful Occupation,Fairies,49.44,36.18,62.7,87,73,100
+Meaningful Occupation,Forest of tranquility,71.08,59.82,82.33,87,73,100
+Meaningful Occupation,Insects,91.85,83.74,99.97,87,73,100
+Meaningful Occupation,Lake Danger reeds,74.22,60.54,87.89,87,73,100
+Meaningful Occupation,Native fish,85.03,75.35,94.71,87,73,100
+Meaningful Occupation,Revegetated forests,13.22,5.68,20.76,87,73,100
+Meaningful Occupation,Riparian vegetation,9.52,2.94,16.1,87,73,100
+Meaningful Occupation,Royal rose forest,37.09,24.97,49.21,87,73,100
+Meaningful Occupation,Small mammals,17.11,4.82,29.41,87,73,100
+Meaningful Occupation,Terrestrial birds,26.65,16.39,36.91,87,73,100
+Meaningful Occupation,Water birds,13.37,0.06,26.69,87,73,100
+Protection (from other organisms),Bison,3.4,0,36.66,34,14,48
+Protection (from other organisms),Fairies,9.37,2.56,16.17,34,14,48
+Protection (from other organisms),Forest of tranquility,32.28,17.99,46.56,34,14,48
+Protection (from other organisms),Insects,47.2,31.46,62.94,34,14,48
+Protection (from other organisms),Lake Danger reeds,66.54,51.22,81.86,34,14,48
+Protection (from other organisms),Native fish,12.4,4.86,41.57,34,14,48
+Protection (from other organisms),Revegetated forests,7.35,0.14,14.56,34,14,48
+Protection (from other organisms),Riparian vegetation,7.66,0.12,15.21,34,14,48
+Protection (from other organisms),Royal rose forest,1.55,0,3.09,34,14,48
+Protection (from other organisms),Small mammals,10.53,0.82,20.25,34,14,48
+Protection (from other organisms),Terrestrial birds,17.22,4.49,29.95,34,14,48
+Protection (from other organisms),Water birds,13.88,0.05,27.71,34,14,48
+Recreational Satisfaction,Bison,80.7,68.06,93.35,85,59,100
+Recreational Satisfaction,Fairies,80.64,71.24,90.04,85,59,100
+Recreational Satisfaction,Forest of tranquility,84.59,73.36,95.81,85,59,100
+Recreational Satisfaction,Insects,21.45,14.89,47.25,85,59,100
+Recreational Satisfaction,Lake Danger reeds,34.24,10.14,64.28,85,59,100
+Recreational Satisfaction,Native fish,91.04,84.23,97.84,85,59,100
+Recreational Satisfaction,Revegetated forests,22.44,1.32,43.55,85,59,100
+Recreational Satisfaction,Riparian vegetation,59.74,47.04,72.43,85,59,100
+Recreational Satisfaction,Royal rose forest,69.58,57.54,81.61,85,59,100
+Recreational Satisfaction,Small mammals,65.27,48.95,81.58,85,59,100
+Recreational Satisfaction,Terrestrial birds,70.46,55.09,85.84,85,59,100
+Recreational Satisfaction,Water birds,71.74,54.03,89.45,85,59,100
+Social Fulfilment,Bison,85.84,74.15,97.54,61,39,100
+Social Fulfilment,Fairies,46.11,34.76,57.45,61,39,100
+Social Fulfilment,Forest of tranquility,73.55,60.16,86.94,61,39,100
+Social Fulfilment,Insects,26.81,11.1,42.52,61,39,100
+Social Fulfilment,Lake Danger reeds,47.96,33.88,62.05,61,39,100
+Social Fulfilment,Native fish,64.71,48.31,81.1,61,39,100
+Social Fulfilment,Revegetated forests,8.21,1.23,20.17,61,39,100
+Social Fulfilment,Riparian vegetation,38.19,27.37,49,61,39,100
+Social Fulfilment,Royal rose forest,71.02,59.82,82.22,61,39,100
+Social Fulfilment,Small mammals,49.96,33.7,66.22,61,39,100
+Social Fulfilment,Terrestrial birds,39.87,25.18,54.55,61,39,100
+Social Fulfilment,Water birds,18.58,3.47,33.69,61,39,100
+Spiritual-Philosophical Fulfilment,Bison,55.23,35.13,75.33,41,21,62
+Spiritual-Philosophical Fulfilment,Fairies,53.77,41.57,65.97,41,21,62
+Spiritual-Philosophical Fulfilment,Forest of tranquility,71.37,56.66,86.08,41,21,62
+Spiritual-Philosophical Fulfilment,Insects,47.26,28.94,65.57,41,21,62
+Spiritual-Philosophical Fulfilment,Lake Danger reeds,51.56,37.35,65.76,41,21,62
+Spiritual-Philosophical Fulfilment,Native fish,55.91,40.85,70.98,41,21,62
+Spiritual-Philosophical Fulfilment,Revegetated forests,21.23,12.1,30.37,41,21,62
+Spiritual-Philosophical Fulfilment,Riparian vegetation,39.71,26.69,52.72,41,21,62
+Spiritual-Philosophical Fulfilment,Royal rose forest,2.3,0,36.94,41,21,62
+Spiritual-Philosophical Fulfilment,Small mammals,69.76,54.22,85.29,41,21,62
+Spiritual-Philosophical Fulfilment,Terrestrial birds,74.25,58.23,90.28,41,21,62
+Spiritual-Philosophical Fulfilment,Water birds,53.38,34.22,72.54,41,21,62

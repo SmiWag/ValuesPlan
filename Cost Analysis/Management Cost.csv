@@ -1,0 +1,10 @@
+Management_Option,Centroid,Lower,Upper
+Do nothing,3,1.25,5.14
+Maintain Current,7.35,5.43,11.24
+Maintain Current/SW,13,10,18
+Maintain Current/Hyp,12.5,9.5,30
+Maintain Current/Rei,10.91,9.07,15.11
+Maintain Current/Hyp/SW,18.15,15,30
+Maintain Current/Rei/SW,16.56,12.4,24.1
+Maintain Current/Hyp/Rei,16.06,12.1,21
+Maintain Current/Hyp/Rei/SW,21.71,18.3,26.4

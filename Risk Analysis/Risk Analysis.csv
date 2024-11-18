@@ -1,0 +1,121 @@
+Element,Risk,Centroid,Lower,Upper
+Bison,Disease-Parasites,6.794,0.252,13.335
+Bison,Lack of Food,18.877,6.295,31.459
+Bison,Groundwater,3.626,0.112,7.139
+Bison,Lack of Mates,4.269,0,8.537
+Bison,Surface Water,32.953,16.112,49.794
+Bison,Grazing,8.926,0.952,16.9
+Bison,Fire,7.536,0.121,14.951
+Bison,Predation,14.927,0,29.854
+Bison,Salinity,8.392,0.061,16.723
+Bison,Hyperthermia,56.761,38.178,75.344
+Fairies,Disease-Parasites,6.514,0.135,12.893
+Fairies,Lack of Food,23.327,5.474,41.18
+Fairies,Groundwater,3.045,0.055,6.035
+Fairies,Lack of Mates,4.867,0.03,9.704
+Fairies,Surface Water,26.781,3.988,49.575
+Fairies,Grazing,5.963,0.019,11.906
+Fairies,Fire,10.665,0,21.331
+Fairies,Predation,2.097,0,4.195
+Fairies,Salinity,2.022,0,4.045
+Fairies,Hyperthermia,41.011,14.888,67.134
+Forest of tranquility,Disease-Parasites,16.792,0.989,32.596
+Forest of tranquility,Lack of Food,2.023,0,4.046
+Forest of tranquility,Groundwater,69.283,48.725,89.842
+Forest of tranquility,Lack of Mates,5.567,0.114,11.019
+Forest of tranquility,Surface Water,1.866,0,3.733
+Forest of tranquility,Grazing,17.498,2.018,32.979
+Forest of tranquility,Fire,21.462,5.132,37.792
+Forest of tranquility,Predation,1.646,0,2.644
+Forest of tranquility,Salinity,71.471,52.239,90.703
+Forest of tranquility,Hyperthermia,64.487,45.536,83.438
+Insects,Disease-Parasites,26.733,6.303,47.163
+Insects,Lack of Food,13.122,1.897,24.347
+Insects,Groundwater,56.444,40.281,72.606
+Insects,Lack of Mates,4.775,0,9.55
+Insects,Surface Water,76.319,58.536,94.102
+Insects,Grazing,13.258,0.559,25.957
+Insects,Fire,7.264,0,14.527
+Insects,Predation,1.03,0,2.06
+Insects,Salinity,76.694,60.096,93.292
+Insects,Hyperthermia,74.045,55.814,92.277
+Lake Danger reeds,Disease-Parasites,14.998,0.135,29.862
+Lake Danger reeds,Lack of Food,1.261,0,2.523
+Lake Danger reeds,Groundwater,31.55,4.377,58.723
+Lake Danger reeds,Lack of Mates,2.653,0,5.307
+Lake Danger reeds,Surface Water,37.281,11.366,63.197
+Lake Danger reeds,Grazing,2.645,0,5.29
+Lake Danger reeds,Fire,1.563,0,3.127
+Lake Danger reeds,Predation,1.058,0,2.116
+Lake Danger reeds,Salinity,36.784,11.12,62.448
+Lake Danger reeds,Hyperthermia,28.051,2.66,53.441
+Native fish,Disease-Parasites,23.19507988,1.275519724,45.11464003
+Native fish,Lack of Food,8.509483759,0,17.01896752
+Native fish,Groundwater,6.858980968,0,13.71796194
+Native fish,Lack of Mates,3.852239776,0,7.704479552
+Native fish,Surface Water,62.39897646,36.14898211,88.6489708
+Native fish,Grazing,1.120314462,0,2.240628923
+Native fish,Fire,1.887564469,0,3.775128939
+Native fish,Predation,0.704476041,0,1.408952082
+Native fish,Salinity,63.459537,36.07978149,90.83929251
+Native fish,Hyperthermia,49.03876121,22.60768798,75.46983444
+Revegetated forests,Disease-Parasites,45.57794768,20.63168664,70.52420872
+Revegetated forests,Lack of Food,2.427424437,0,4.854848874
+Revegetated forests,Groundwater,66.20656165,47.71799069,84.69513262
+Revegetated forests,Lack of Mates,7.050824067,0,14.10164813
+Revegetated forests,Surface Water,1.372960187,0.061669932,2.684250442
+Revegetated forests,Grazing,15.87553938,0.544408024,31.20667073
+Revegetated forests,Fire,26.39014811,9.247082898,43.53321332
+Revegetated forests,Predation,1.139719371,0,2.279438741
+Revegetated forests,Salinity,68.29418222,48.47213651,88.11622793
+Revegetated forests,Hyperthermia,68.52526712,49.29070639,87.75982784
+Riparian vegetation,Disease-Parasites,31.76848975,14.76895292,48.76802658
+Riparian vegetation,Lack of Food,3.37582228,0,6.75164456
+Riparian vegetation,Groundwater,64.85104382,41.89908749,87.80300015
+Riparian vegetation,Lack of Mates,4.218338345,0,8.436676691
+Riparian vegetation,Surface Water,51.45383256,29.21747388,73.69019124
+Riparian vegetation,Grazing,8.713210597,0.622022539,16.80439865
+Riparian vegetation,Fire,10.09212262,0.377349783,19.80689546
+Riparian vegetation,Predation,0.668971598,0,1.337943196
+Riparian vegetation,Salinity,65.5998521,45.36074644,85.83895776
+Riparian vegetation,Hyperthermia,54.02009958,31.95021051,76.08998865
+Royal rose forest,Disease-Parasites,32.10590776,11.70987752,52.50193801
+Royal rose forest,Lack of Food,1.783683532,0,3.567367064
+Royal rose forest,Groundwater,31.22117245,13.39857441,49.04377049
+Royal rose forest,Lack of Mates,1.952301636,0,3.904603272
+Royal rose forest,Surface Water,1.376145625,0,2.75229125
+Royal rose forest,Grazing,3.431752565,0,6.86350513
+Royal rose forest,Fire,4.781767204,0.092746439,9.470787968
+Royal rose forest,Predation,1.34172944,0,2.68345888
+Royal rose forest,Salinity,31.98557648,12.89231202,51.07884094
+Royal rose forest,Hyperthermia,31.65828398,11.82529527,51.49127269
+Small mammals,Disease-Parasites,47.59989471,28.34784328,66.85194615
+Small mammals,Lack of Food,18.73779331,2.071462539,35.40412408
+Small mammals,Groundwater,2.259367752,0,4.518735504
+Small mammals,Lack of Mates,13.52526511,0.742321552,26.30820867
+Small mammals,Surface Water,22.92145491,7.022548635,38.82036118
+Small mammals,Grazing,14.35954267,0.726316845,27.99276849
+Small mammals,Fire,18.72531249,4.521901515,32.92872347
+Small mammals,Predation,32.08232791,19.09659325,45.06806256
+Small mammals,Salinity,4.573230878,0,9.146461757
+Small mammals,Hyperthermia,70.78596712,53.53339297,88.03854128
+Terrestrial birds,Disease-Parasites,26.39671524,9.017820619,43.77560987
+Terrestrial birds,Lack of Food,31.15235965,11.28543681,51.01928248
+Terrestrial birds,Groundwater,1.350007954,0,2.700015907
+Terrestrial birds,Lack of Mates,2.931921739,0,5.863843478
+Terrestrial birds,Surface Water,59.64827709,37.2646351,82.03191908
+Terrestrial birds,Grazing,6.159236763,0,12.31847353
+Terrestrial birds,Fire,7.349328101,0.110204845,14.58845136
+Terrestrial birds,Predation,1.198866933,0,2.397733865
+Terrestrial birds,Salinity,1.551140048,0,3.102280096
+Terrestrial birds,Hyperthermia,77.24331066,59.94413859,94.54248272
+Water birds,Disease-Parasites,19.55080609,3.814383241,35.28722894
+Water birds,Lack of Food,73.48138539,54.91695307,92.0458177
+Water birds,Groundwater,10.66546697,3.896679695,17.43425424
+Water birds,Lack of Mates,4.20812781,0,8.41625562
+Water birds,Surface Water,38.00980674,21.70963191,54.30998158
+Water birds,Grazing,1.906567573,0,3.813135147
+Water birds,Fire,3.186743516,0,6.373487032
+Water birds,Predation,1.382511461,0,2.765022922
+Water birds,Salinity,39.46911914,22.86095661,56.07728168
+Water birds,Hyperthermia,80.62839107,61.91847659,99.33830555

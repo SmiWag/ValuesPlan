@@ -1,0 +1,973 @@
+Option,Element,Value,Centroid.1,Lower.1,Upper.1,Property.1,OptionNumber
+Do nothing,Bison,Adequate Resources,-26.48,-57.28,12.72,Abundance,1
+Do nothing,Bison,Aesthetically Pleasing Environment,-63.64,-72.44,-24.44,Abundance,1
+Do nothing,Bison,Benign Physical Environment,-8.24,-17.04,22.96,Abundance,1
+Do nothing,Bison,Cultural Heritage Fulfilment,-9.52,-36.12,22.88,Abundance,1
+Do nothing,Bison,Meaningful Occupation,-26.48,-57.28,12.72,Abundance,1
+Do nothing,Bison,Protection from other Organisms,-8.24,-17.04,22.96,Abundance,1
+Do nothing,Bison,Recreational Enjoyment,-82.92,-91.72,-43.72,Abundance,1
+Do nothing,Bison,Social Fulfilment,-26.48,-57.28,12.72,Abundance,1
+Do nothing,Bison,Spiritual-philosophical Fulfilment,-26.48,-57.28,12.72,Abundance,1
+Maintain Current,Bison,Adequate Resources,0,-27.68,24.52,Abundance,2
+Maintain Current,Bison,Aesthetically Pleasing Environment,0,-30,23.96,Abundance,2
+Maintain Current,Bison,Benign Physical Environment,0,-17.04,29.36,Abundance,2
+Maintain Current,Bison,Cultural Heritage Fulfilment,0,-33.08,33.08,Abundance,2
+Maintain Current,Bison,Meaningful Occupation,0,-27.68,24.52,Abundance,2
+Maintain Current,Bison,Protection from other Organisms,0,-17.04,29.36,Abundance,2
+Maintain Current,Bison,Recreational Enjoyment,0,-75.4,4.68,Abundance,2
+Maintain Current,Bison,Social Fulfilment,0,-27.68,24.52,Abundance,2
+Maintain Current,Bison,Spiritual-philosophical Fulfilment,0,-27.68,24.52,Abundance,2
+Maintain Current/Hyp,Bison,Adequate Resources,2.52,-34.88,30.72,Abundance,3
+Maintain Current/Hyp,Bison,Aesthetically Pleasing Environment,3.96,-43.68,27.56,Abundance,3
+Maintain Current/Hyp,Bison,Benign Physical Environment,0.36,-17.04,30.96,Abundance,3
+Maintain Current/Hyp,Bison,Cultural Heritage Fulfilment,1.08,-35.96,37.88,Abundance,3
+Maintain Current/Hyp,Bison,Meaningful Occupation,2.52,-34.88,30.72,Abundance,3
+Maintain Current/Hyp,Bison,Protection from other Organisms,0.36,-17.04,30.96,Abundance,3
+Maintain Current/Hyp,Bison,Recreational Enjoyment,-20.52,-44.44,-29.72,Abundance,3
+Maintain Current/Hyp,Bison,Social Fulfilment,2.52,-34.88,30.72,Abundance,3
+Maintain Current/Hyp,Bison,Spiritual-philosophical Fulfilment,2.52,-34.88,30.72,Abundance,3
+Maintain Current/Hyp/Rei,Bison,Adequate Resources,2.52,-34.88,30.72,Abundance,4
+Maintain Current/Hyp/Rei,Bison,Aesthetically Pleasing Environment,3.96,-43.68,27.56,Abundance,4
+Maintain Current/Hyp/Rei,Bison,Benign Physical Environment,0.36,-17.04,30.96,Abundance,4
+Maintain Current/Hyp/Rei,Bison,Cultural Heritage Fulfilment,1.08,-35.96,37.88,Abundance,4
+Maintain Current/Hyp/Rei,Bison,Meaningful Occupation,2.52,-34.88,30.72,Abundance,4
+Maintain Current/Hyp/Rei,Bison,Protection from other Organisms,0.36,-17.04,30.96,Abundance,4
+Maintain Current/Hyp/Rei,Bison,Recreational Enjoyment,-20.52,-44.44,-29.72,Abundance,4
+Maintain Current/Hyp/Rei,Bison,Social Fulfilment,2.52,-34.88,30.72,Abundance,4
+Maintain Current/Hyp/Rei,Bison,Spiritual-philosophical Fulfilment,2.52,-34.88,30.72,Abundance,4
+Maintain Current/Hyp/Rei/SW,Bison,Adequate Resources,2.52,-34.88,30.72,Abundance,5
+Maintain Current/Hyp/Rei/SW,Bison,Aesthetically Pleasing Environment,3.96,-43.68,27.56,Abundance,5
+Maintain Current/Hyp/Rei/SW,Bison,Benign Physical Environment,0.36,-17.04,30.96,Abundance,5
+Maintain Current/Hyp/Rei/SW,Bison,Cultural Heritage Fulfilment,1.08,-35.96,37.88,Abundance,5
+Maintain Current/Hyp/Rei/SW,Bison,Meaningful Occupation,2.52,-34.88,30.72,Abundance,5
+Maintain Current/Hyp/Rei/SW,Bison,Protection from other Organisms,0.36,-17.04,30.96,Abundance,5
+Maintain Current/Hyp/Rei/SW,Bison,Recreational Enjoyment,-20.52,-44.44,-29.72,Abundance,5
+Maintain Current/Hyp/Rei/SW,Bison,Social Fulfilment,2.52,-34.88,30.72,Abundance,5
+Maintain Current/Hyp/Rei/SW,Bison,Spiritual-philosophical Fulfilment,2.52,-34.88,30.72,Abundance,5
+Maintain Current/Hyp/SW,Bison,Adequate Resources,2.52,-34.88,30.72,Abundance,6
+Maintain Current/Hyp/SW,Bison,Aesthetically Pleasing Environment,3.96,-43.68,27.56,Abundance,6
+Maintain Current/Hyp/SW,Bison,Benign Physical Environment,0.36,-17.04,30.96,Abundance,6
+Maintain Current/Hyp/SW,Bison,Cultural Heritage Fulfilment,1.08,-35.96,37.88,Abundance,6
+Maintain Current/Hyp/SW,Bison,Meaningful Occupation,2.52,-34.88,30.72,Abundance,6
+Maintain Current/Hyp/SW,Bison,Protection from other Organisms,0.36,-17.04,30.96,Abundance,6
+Maintain Current/Hyp/SW,Bison,Recreational Enjoyment,-20.52,-44.44,-29.72,Abundance,6
+Maintain Current/Hyp/SW,Bison,Social Fulfilment,2.52,-34.88,30.72,Abundance,6
+Maintain Current/Hyp/SW,Bison,Spiritual-philosophical Fulfilment,2.52,-34.88,30.72,Abundance,6
+Maintain Current/Rei,Bison,Adequate Resources,2.52,-34.88,30.72,Abundance,7
+Maintain Current/Rei,Bison,Aesthetically Pleasing Environment,3.96,-43.68,27.56,Abundance,7
+Maintain Current/Rei,Bison,Benign Physical Environment,0.36,-17.04,30.96,Abundance,7
+Maintain Current/Rei,Bison,Cultural Heritage Fulfilment,1.08,-35.96,37.88,Abundance,7
+Maintain Current/Rei,Bison,Meaningful Occupation,2.52,-34.88,30.72,Abundance,7
+Maintain Current/Rei,Bison,Protection from other Organisms,0.36,-17.04,30.96,Abundance,7
+Maintain Current/Rei,Bison,Recreational Enjoyment,-20.52,-44.44,-29.72,Abundance,7
+Maintain Current/Rei,Bison,Social Fulfilment,2.52,-34.88,30.72,Abundance,7
+Maintain Current/Rei,Bison,Spiritual-philosophical Fulfilment,2.52,-34.88,30.72,Abundance,7
+Maintain Current/Rei/SW,Bison,Adequate Resources,2.52,-34.88,30.72,Abundance,8
+Maintain Current/Rei/SW,Bison,Aesthetically Pleasing Environment,3.96,-43.68,27.56,Abundance,8
+Maintain Current/Rei/SW,Bison,Benign Physical Environment,0.36,-17.04,30.96,Abundance,8
+Maintain Current/Rei/SW,Bison,Cultural Heritage Fulfilment,1.08,-35.96,37.88,Abundance,8
+Maintain Current/Rei/SW,Bison,Meaningful Occupation,2.52,-34.88,30.72,Abundance,8
+Maintain Current/Rei/SW,Bison,Protection from other Organisms,0.36,-17.04,30.96,Abundance,8
+Maintain Current/Rei/SW,Bison,Recreational Enjoyment,-20.52,-44.44,-29.72,Abundance,8
+Maintain Current/Rei/SW,Bison,Social Fulfilment,2.52,-34.88,30.72,Abundance,8
+Maintain Current/Rei/SW,Bison,Spiritual-philosophical Fulfilment,2.52,-34.88,30.72,Abundance,8
+Maintain Current/SW,Bison,Adequate Resources,2.52,-34.88,30.72,Abundance,9
+Maintain Current/SW,Bison,Aesthetically Pleasing Environment,3.96,-43.68,27.56,Abundance,9
+Maintain Current/SW,Bison,Benign Physical Environment,0.36,-17.04,30.96,Abundance,9
+Maintain Current/SW,Bison,Cultural Heritage Fulfilment,1.08,-35.96,37.88,Abundance,9
+Maintain Current/SW,Bison,Meaningful Occupation,2.52,-34.88,30.72,Abundance,9
+Maintain Current/SW,Bison,Protection from other Organisms,0.36,-17.04,30.96,Abundance,9
+Maintain Current/SW,Bison,Recreational Enjoyment,-20.52,-44.44,-29.72,Abundance,9
+Maintain Current/SW,Bison,Social Fulfilment,2.52,-34.88,30.72,Abundance,9
+Maintain Current/SW,Bison,Spiritual-philosophical Fulfilment,2.52,-34.88,30.72,Abundance,9
+Do nothing,Fairies,Adequate Resources,-3.2,-14,30,Abundance,1
+Do nothing,Fairies,Aesthetically Pleasing Environment,-6.4,-46,31,Abundance,1
+Do nothing,Fairies,Benign Physical Environment,-3.2,-14,30,Abundance,1
+Do nothing,Fairies,Cultural Heritage Fulfilment,-3.2,-33,33,Abundance,1
+Do nothing,Fairies,Meaningful Occupation,-3.2,-14,30,Abundance,1
+Do nothing,Fairies,Protection from other Organisms,-3.2,-14,30,Abundance,1
+Do nothing,Fairies,Recreational Enjoyment,-6.4,-46,31,Abundance,1
+Do nothing,Fairies,Social Fulfilment,-6.4,-46,31,Abundance,1
+Do nothing,Fairies,Spiritual-philosophical Fulfilment,-6.4,-46,31,Abundance,1
+Maintain Current,Fairies,Adequate Resources,-0.32,-14,32.4,Abundance,2
+Maintain Current,Fairies,Aesthetically Pleasing Environment,-0.64,-31.92,35.8,Abundance,2
+Maintain Current,Fairies,Benign Physical Environment,-0.32,-14,32.4,Abundance,2
+Maintain Current,Fairies,Cultural Heritage Fulfilment,-0.32,-33,36.2,Abundance,2
+Maintain Current,Fairies,Meaningful Occupation,-0.32,-14,32.4,Abundance,2
+Maintain Current,Fairies,Protection from other Organisms,-0.32,-14,32.4,Abundance,2
+Maintain Current,Fairies,Recreational Enjoyment,-0.64,-31.92,35.8,Abundance,2
+Maintain Current,Fairies,Social Fulfilment,-0.64,-31.92,35.8,Abundance,2
+Maintain Current,Fairies,Spiritual-philosophical Fulfilment,-0.64,-31.92,35.8,Abundance,2
+Maintain Current/Hyp,Fairies,Adequate Resources,3.600005067,-13.99999467,34.00000533,Abundance,3
+Maintain Current/Hyp,Fairies,Aesthetically Pleasing Environment,15.2000088,-21.99999467,42.00001067,Abundance,3
+Maintain Current/Hyp,Fairies,Benign Physical Environment,3.600005067,-13.99999467,34.00000533,Abundance,3
+Maintain Current/Hyp,Fairies,Cultural Heritage Fulfilment,4.800004533,-32.1999968,41.00000533,Abundance,3
+Maintain Current/Hyp,Fairies,Meaningful Occupation,3.600005067,-13.99999467,34.00000533,Abundance,3
+Maintain Current/Hyp,Fairies,Protection from other Organisms,3.600005067,-13.99999467,34.00000533,Abundance,3
+Maintain Current/Hyp,Fairies,Recreational Enjoyment,15.2000088,-21.99999467,42.00001067,Abundance,3
+Maintain Current/Hyp,Fairies,Social Fulfilment,15.2000088,-21.99999467,42.00001067,Abundance,3
+Maintain Current/Hyp,Fairies,Spiritual-philosophical Fulfilment,15.2000088,-21.99999467,42.00001067,Abundance,3
+Maintain Current/Hyp/Rei,Fairies,Adequate Resources,3.600005067,-13.99999467,34.00000533,Abundance,4
+Maintain Current/Hyp/Rei,Fairies,Aesthetically Pleasing Environment,15.2000088,-21.99999467,42.00001067,Abundance,4
+Maintain Current/Hyp/Rei,Fairies,Benign Physical Environment,3.600005067,-13.99999467,34.00000533,Abundance,4
+Maintain Current/Hyp/Rei,Fairies,Cultural Heritage Fulfilment,4.800004533,-32.1999968,41.00000533,Abundance,4
+Maintain Current/Hyp/Rei,Fairies,Meaningful Occupation,3.600005067,-13.99999467,34.00000533,Abundance,4
+Maintain Current/Hyp/Rei,Fairies,Protection from other Organisms,3.600005067,-13.99999467,34.00000533,Abundance,4
+Maintain Current/Hyp/Rei,Fairies,Recreational Enjoyment,15.2000088,-21.99999467,42.00001067,Abundance,4
+Maintain Current/Hyp/Rei,Fairies,Social Fulfilment,15.2000088,-21.99999467,42.00001067,Abundance,4
+Maintain Current/Hyp/Rei,Fairies,Spiritual-philosophical Fulfilment,15.2000088,-21.99999467,42.00001067,Abundance,4
+Maintain Current/Hyp/Rei/SW,Fairies,Adequate Resources,3.600005067,-13.99999467,34.00000533,Abundance,5
+Maintain Current/Hyp/Rei/SW,Fairies,Aesthetically Pleasing Environment,15.2000088,-21.99999467,42.00001067,Abundance,5
+Maintain Current/Hyp/Rei/SW,Fairies,Benign Physical Environment,3.600005067,-13.99999467,34.00000533,Abundance,5
+Maintain Current/Hyp/Rei/SW,Fairies,Cultural Heritage Fulfilment,4.800004533,-32.1999968,41.00000533,Abundance,5
+Maintain Current/Hyp/Rei/SW,Fairies,Meaningful Occupation,3.600005067,-13.99999467,34.00000533,Abundance,5
+Maintain Current/Hyp/Rei/SW,Fairies,Protection from other Organisms,3.600005067,-13.99999467,34.00000533,Abundance,5
+Maintain Current/Hyp/Rei/SW,Fairies,Recreational Enjoyment,15.2000088,-21.99999467,42.00001067,Abundance,5
+Maintain Current/Hyp/Rei/SW,Fairies,Social Fulfilment,15.2000088,-21.99999467,42.00001067,Abundance,5
+Maintain Current/Hyp/Rei/SW,Fairies,Spiritual-philosophical Fulfilment,15.2000088,-21.99999467,42.00001067,Abundance,5
+Maintain Current/Hyp/SW,Fairies,Adequate Resources,3.600005067,-13.99999467,34.00000533,Abundance,6
+Maintain Current/Hyp/SW,Fairies,Aesthetically Pleasing Environment,15.2000088,-21.99999467,42.00001067,Abundance,6
+Maintain Current/Hyp/SW,Fairies,Benign Physical Environment,3.600005067,-13.99999467,34.00000533,Abundance,6
+Maintain Current/Hyp/SW,Fairies,Cultural Heritage Fulfilment,4.800004533,-32.1999968,41.00000533,Abundance,6
+Maintain Current/Hyp/SW,Fairies,Meaningful Occupation,3.600005067,-13.99999467,34.00000533,Abundance,6
+Maintain Current/Hyp/SW,Fairies,Protection from other Organisms,3.600005067,-13.99999467,34.00000533,Abundance,6
+Maintain Current/Hyp/SW,Fairies,Recreational Enjoyment,15.2000088,-21.99999467,42.00001067,Abundance,6
+Maintain Current/Hyp/SW,Fairies,Social Fulfilment,15.2000088,-21.99999467,42.00001067,Abundance,6
+Maintain Current/Hyp/SW,Fairies,Spiritual-philosophical Fulfilment,15.2000088,-21.99999467,42.00001067,Abundance,6
+Maintain Current/Rei,Fairies,Adequate Resources,-0.32,-14,32.4,Abundance,7
+Maintain Current/Rei,Fairies,Aesthetically Pleasing Environment,-0.64,-31.92,35.8,Abundance,7
+Maintain Current/Rei,Fairies,Benign Physical Environment,-0.32,-14,32.4,Abundance,7
+Maintain Current/Rei,Fairies,Cultural Heritage Fulfilment,-0.32,-33,36.2,Abundance,7
+Maintain Current/Rei,Fairies,Meaningful Occupation,-0.32,-14,32.4,Abundance,7
+Maintain Current/Rei,Fairies,Protection from other Organisms,-0.32,-14,32.4,Abundance,7
+Maintain Current/Rei,Fairies,Recreational Enjoyment,-0.64,-31.92,35.8,Abundance,7
+Maintain Current/Rei,Fairies,Social Fulfilment,-0.64,-31.92,35.8,Abundance,7
+Maintain Current/Rei,Fairies,Spiritual-philosophical Fulfilment,-0.64,-31.92,35.8,Abundance,7
+Maintain Current/Rei/SW,Fairies,Adequate Resources,-0.32,-14,32.4,Abundance,8
+Maintain Current/Rei/SW,Fairies,Aesthetically Pleasing Environment,-0.64,-31.92,35.8,Abundance,8
+Maintain Current/Rei/SW,Fairies,Benign Physical Environment,-0.32,-14,32.4,Abundance,8
+Maintain Current/Rei/SW,Fairies,Cultural Heritage Fulfilment,-0.32,-33,36.2,Abundance,8
+Maintain Current/Rei/SW,Fairies,Meaningful Occupation,-0.32,-14,32.4,Abundance,8
+Maintain Current/Rei/SW,Fairies,Protection from other Organisms,-0.32,-14,32.4,Abundance,8
+Maintain Current/Rei/SW,Fairies,Recreational Enjoyment,-0.64,-31.92,35.8,Abundance,8
+Maintain Current/Rei/SW,Fairies,Social Fulfilment,-0.64,-31.92,35.8,Abundance,8
+Maintain Current/Rei/SW,Fairies,Spiritual-philosophical Fulfilment,-0.64,-31.92,35.8,Abundance,8
+Maintain Current/SW,Fairies,Adequate Resources,-0.32,-14,32.4,Abundance,9
+Maintain Current/SW,Fairies,Aesthetically Pleasing Environment,-0.64,-31.92,35.8,Abundance,9
+Maintain Current/SW,Fairies,Benign Physical Environment,-0.32,-14,32.4,Abundance,9
+Maintain Current/SW,Fairies,Cultural Heritage Fulfilment,-0.32,-33,36.2,Abundance,9
+Maintain Current/SW,Fairies,Meaningful Occupation,-0.32,-14,32.4,Abundance,9
+Maintain Current/SW,Fairies,Protection from other Organisms,-0.32,-14,32.4,Abundance,9
+Maintain Current/SW,Fairies,Recreational Enjoyment,-0.64,-31.92,35.8,Abundance,9
+Maintain Current/SW,Fairies,Social Fulfilment,-0.64,-31.92,35.8,Abundance,9
+Maintain Current/SW,Fairies,Spiritual-philosophical Fulfilment,-0.64,-31.92,35.8,Abundance,9
+Do nothing,Forest of Tranquility,Adequate Resources,-5.51,-40.99,26.01,Species Richness,1
+Do nothing,Forest of Tranquility,Aesthetically Pleasing Environment,-5.51,-40.99,26.01,Species Richness,1
+Do nothing,Forest of Tranquility,Benign Physical Environment,-6.01,-34.98,40.01,Species Richness,1
+Do nothing,Forest of Tranquility,Cultural Heritage Fulfilment,-5.51,-40.99,26.01,Species Richness,1
+Do nothing,Forest of Tranquility,Meaningful Occupation,-5.51,-40.99,26.01,Species Richness,1
+Do nothing,Forest of Tranquility,Protection from other Organisms,-1.5,-16.99,30,Species Richness,1
+Do nothing,Forest of Tranquility,Recreational Enjoyment,-1.5,-35.99,34,Species Richness,1
+Do nothing,Forest of Tranquility,Social Fulfilment,-1.5,-35.99,34,Species Richness,1
+Do nothing,Forest of Tranquility,Spiritual-philosophical Fulfilment,-5.51,-40.99,26.01,Species Richness,1
+Maintain Current,Forest of Tranquility,Adequate Resources,0,-38,28.51,Species Richness,2
+Maintain Current,Forest of Tranquility,Aesthetically Pleasing Environment,0,-38,28.51,Species Richness,2
+Maintain Current,Forest of Tranquility,Benign Physical Environment,0,-30.5,42.52,Species Richness,2
+Maintain Current,Forest of Tranquility,Cultural Heritage Fulfilment,0,-38,28.51,Species Richness,2
+Maintain Current,Forest of Tranquility,Meaningful Occupation,0,-38,28.51,Species Richness,2
+Maintain Current,Forest of Tranquility,Protection from other Organisms,0,-16.99,30.5,Species Richness,2
+Maintain Current,Forest of Tranquility,Recreational Enjoyment,0,-35.99,36,Species Richness,2
+Maintain Current,Forest of Tranquility,Social Fulfilment,0,-35.99,36,Species Richness,2
+Maintain Current,Forest of Tranquility,Spiritual-philosophical Fulfilment,0,-38,28.51,Species Richness,2
+Maintain Current/Hyp,Forest of Tranquility,Adequate Resources,1.41,-34,30.02,Species Richness,3
+Maintain Current/Hyp,Forest of Tranquility,Aesthetically Pleasing Environment,1.41,-34,30.02,Species Richness,3
+Maintain Current/Hyp,Forest of Tranquility,Benign Physical Environment,3,-25.09,44.02,Species Richness,3
+Maintain Current/Hyp,Forest of Tranquility,Cultural Heritage Fulfilment,1.41,-34,30.02,Species Richness,3
+Maintain Current/Hyp,Forest of Tranquility,Meaningful Occupation,1.41,-34,30.02,Species Richness,3
+Maintain Current/Hyp,Forest of Tranquility,Protection from other Organisms,1.41,-34,30.02,Species Richness,3
+Maintain Current/Hyp,Forest of Tranquility,Recreational Enjoyment,0.6,-35.6,37.2,Species Richness,3
+Maintain Current/Hyp,Forest of Tranquility,Social Fulfilment,0.6,-35.6,37.2,Species Richness,3
+Maintain Current/Hyp,Forest of Tranquility,Spiritual-philosophical Fulfilment,1.41,-34,30.02,Species Richness,3
+Maintain Current/Hyp/Rei,Forest of Tranquility,Adequate Resources,1.41,-34,30.02,Species Richness,4
+Maintain Current/Hyp/Rei,Forest of Tranquility,Aesthetically Pleasing Environment,1.41,-34,30.02,Species Richness,4
+Maintain Current/Hyp/Rei,Forest of Tranquility,Benign Physical Environment,3,-25.09,44.02,Species Richness,4
+Maintain Current/Hyp/Rei,Forest of Tranquility,Cultural Heritage Fulfilment,1.41,-34,30.02,Species Richness,4
+Maintain Current/Hyp/Rei,Forest of Tranquility,Meaningful Occupation,1.41,-34,30.02,Species Richness,4
+Maintain Current/Hyp/Rei,Forest of Tranquility,Protection from other Organisms,1.41,-34,30.02,Species Richness,4
+Maintain Current/Hyp/Rei,Forest of Tranquility,Recreational Enjoyment,0.6,-35.6,37.2,Species Richness,4
+Maintain Current/Hyp/Rei,Forest of Tranquility,Social Fulfilment,0.6,-35.6,37.2,Species Richness,4
+Maintain Current/Hyp/Rei,Forest of Tranquility,Spiritual-philosophical Fulfilment,1.41,-34,30.02,Species Richness,4
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Adequate Resources,1.41,-34,30.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Aesthetically Pleasing Environment,1.41,-34,30.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Benign Physical Environment,3,-25.09,44.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Cultural Heritage Fulfilment,1.41,-34,30.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Meaningful Occupation,1.41,-34,30.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Protection from other Organisms,1.41,-34,30.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Recreational Enjoyment,0.6,-35.6,37.2,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Social Fulfilment,0.6,-35.6,37.2,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Forest of Tranquility,Spiritual-philosophical Fulfilment,1.41,-34,30.02,Species Richness,5
+Maintain Current/Hyp/SW,Forest of Tranquility,Adequate Resources,1.41,-34,30.02,Species Richness,6
+Maintain Current/Hyp/SW,Forest of Tranquility,Aesthetically Pleasing Environment,1.41,-34,30.02,Species Richness,6
+Maintain Current/Hyp/SW,Forest of Tranquility,Benign Physical Environment,3,-25.09,44.02,Species Richness,6
+Maintain Current/Hyp/SW,Forest of Tranquility,Cultural Heritage Fulfilment,1.41,-34,30.02,Species Richness,6
+Maintain Current/Hyp/SW,Forest of Tranquility,Meaningful Occupation,1.41,-34,30.02,Species Richness,6
+Maintain Current/Hyp/SW,Forest of Tranquility,Protection from other Organisms,1.41,-34,30.02,Species Richness,6
+Maintain Current/Hyp/SW,Forest of Tranquility,Recreational Enjoyment,0.6,-35.6,37.2,Species Richness,6
+Maintain Current/Hyp/SW,Forest of Tranquility,Social Fulfilment,0.6,-35.6,37.2,Species Richness,6
+Maintain Current/Hyp/SW,Forest of Tranquility,Spiritual-philosophical Fulfilment,1.41,-34,30.02,Species Richness,6
+Maintain Current/Rei,Forest of Tranquility,Adequate Resources,0,-38,28.51,Species Richness,7
+Maintain Current/Rei,Forest of Tranquility,Aesthetically Pleasing Environment,0,-38,28.51,Species Richness,7
+Maintain Current/Rei,Forest of Tranquility,Benign Physical Environment,0,-30.5,42.52,Species Richness,7
+Maintain Current/Rei,Forest of Tranquility,Cultural Heritage Fulfilment,0,-38,28.51,Species Richness,7
+Maintain Current/Rei,Forest of Tranquility,Meaningful Occupation,0,-38,28.51,Species Richness,7
+Maintain Current/Rei,Forest of Tranquility,Protection from other Organisms,0,-16.99,30.5,Species Richness,7
+Maintain Current/Rei,Forest of Tranquility,Recreational Enjoyment,0,-35.99,36,Species Richness,7
+Maintain Current/Rei,Forest of Tranquility,Social Fulfilment,0,-35.99,36,Species Richness,7
+Maintain Current/Rei,Forest of Tranquility,Spiritual-philosophical Fulfilment,0,-38,28.51,Species Richness,7
+Maintain Current/Rei/SW,Forest of Tranquility,Adequate Resources,0,-38,28.51,Species Richness,8
+Maintain Current/Rei/SW,Forest of Tranquility,Aesthetically Pleasing Environment,0,-38,28.51,Species Richness,8
+Maintain Current/Rei/SW,Forest of Tranquility,Benign Physical Environment,0,-30.5,42.52,Species Richness,8
+Maintain Current/Rei/SW,Forest of Tranquility,Cultural Heritage Fulfilment,0,-38,28.51,Species Richness,8
+Maintain Current/Rei/SW,Forest of Tranquility,Meaningful Occupation,0,-38,28.51,Species Richness,8
+Maintain Current/Rei/SW,Forest of Tranquility,Protection from other Organisms,0,-16.99,30.5,Species Richness,8
+Maintain Current/Rei/SW,Forest of Tranquility,Recreational Enjoyment,0,-35.99,36,Species Richness,8
+Maintain Current/Rei/SW,Forest of Tranquility,Social Fulfilment,0,-35.99,36,Species Richness,8
+Maintain Current/Rei/SW,Forest of Tranquility,Spiritual-philosophical Fulfilment,0,-38,28.51,Species Richness,8
+Maintain Current/SW,Forest of Tranquility,Adequate Resources,0,-38,28.51,Species Richness,9
+Maintain Current/SW,Forest of Tranquility,Aesthetically Pleasing Environment,0,-38,28.51,Species Richness,9
+Maintain Current/SW,Forest of Tranquility,Benign Physical Environment,0,-30.5,42.52,Species Richness,9
+Maintain Current/SW,Forest of Tranquility,Cultural Heritage Fulfilment,0,-38,28.51,Species Richness,9
+Maintain Current/SW,Forest of Tranquility,Meaningful Occupation,0,-38,28.51,Species Richness,9
+Maintain Current/SW,Forest of Tranquility,Protection from other Organisms,0,-16.99,30.5,Species Richness,9
+Maintain Current/SW,Forest of Tranquility,Recreational Enjoyment,0,-35.99,36,Species Richness,9
+Maintain Current/SW,Forest of Tranquility,Social Fulfilment,0,-35.99,36,Species Richness,9
+Maintain Current/SW,Forest of Tranquility,Spiritual-philosophical Fulfilment,0,-38,28.51,Species Richness,9
+Do nothing,Insects,Adequate Resources,-2.52,-42.6,25.2,Species Richness,1
+Do nothing,Insects,Aesthetically Pleasing Environment,-0.36,-17.4,30,Species Richness,1
+Do nothing,Insects,Benign Physical Environment,0,-41.4,38,Species Richness,1
+Do nothing,Insects,Cultural Heritage Fulfilment,-2.52,-42.6,25.2,Species Richness,1
+Do nothing,Insects,Meaningful Occupation,-1.08,-75.8,4.8,Species Richness,1
+Do nothing,Insects,Protection from other Organisms,0,-11,29.4,Species Richness,1
+Do nothing,Insects,Recreational Enjoyment,0,-19,19.4,Species Richness,1
+Do nothing,Insects,Social Fulfilment,0,-19,19.4,Species Richness,1
+Do nothing,Insects,Spiritual-philosophical Fulfilment,-2.52,-42.6,25.2,Species Richness,1
+Maintain Current,Insects,Adequate Resources,-0.42,-40.44,26.4,Species Richness,2
+Maintain Current,Insects,Aesthetically Pleasing Environment,-0.06,-17.4,30.24,Species Richness,2
+Maintain Current,Insects,Benign Physical Environment,0,-42.12,38,Species Richness,2
+Maintain Current,Insects,Cultural Heritage Fulfilment,-0.42,-40.44,26.4,Species Richness,2
+Maintain Current,Insects,Meaningful Occupation,-0.18,-62.48,4.8,Species Richness,2
+Maintain Current,Insects,Protection from other Organisms,0,-11,29.64,Species Richness,2
+Maintain Current,Insects,Recreational Enjoyment,0,-19,19.64,Species Richness,2
+Maintain Current,Insects,Social Fulfilment,0,-19,19.64,Species Richness,2
+Maintain Current,Insects,Spiritual-philosophical Fulfilment,-0.42,-40.44,26.4,Species Richness,2
+Maintain Current/Hyp,Insects,Adequate Resources,4.2,-33.8,28.2,Species Richness,3
+Maintain Current/Hyp,Insects,Aesthetically Pleasing Environment,0.6,-17.4,30.6,Species Richness,3
+Maintain Current/Hyp,Insects,Benign Physical Environment,0,-43.8,38,Species Richness,3
+Maintain Current/Hyp,Insects,Cultural Heritage Fulfilment,4.2,-33.8,28.2,Species Richness,3
+Maintain Current/Hyp,Insects,Meaningful Occupation,1.8,-41,4.8,Species Richness,3
+Maintain Current/Hyp,Insects,Protection from other Organisms,0,-11,30,Species Richness,3
+Maintain Current/Hyp,Insects,Recreational Enjoyment,0,-11,30,Species Richness,3
+Maintain Current/Hyp,Insects,Social Fulfilment,0,-19,20,Species Richness,3
+Maintain Current/Hyp,Insects,Spiritual-philosophical Fulfilment,4.2,-33.8,28.2,Species Richness,3
+Maintain Current/Hyp/Rei,Insects,Adequate Resources,4.2,-33.8,28.2,Species Richness,4
+Maintain Current/Hyp/Rei,Insects,Aesthetically Pleasing Environment,0.6,-17.4,30.6,Species Richness,4
+Maintain Current/Hyp/Rei,Insects,Benign Physical Environment,0,-43.8,38,Species Richness,4
+Maintain Current/Hyp/Rei,Insects,Cultural Heritage Fulfilment,4.2,-33.8,28.2,Species Richness,4
+Maintain Current/Hyp/Rei,Insects,Meaningful Occupation,1.8,-41,4.8,Species Richness,4
+Maintain Current/Hyp/Rei,Insects,Protection from other Organisms,0,-11,30,Species Richness,4
+Maintain Current/Hyp/Rei,Insects,Recreational Enjoyment,0,-11,30,Species Richness,4
+Maintain Current/Hyp/Rei,Insects,Social Fulfilment,0,-19,20,Species Richness,4
+Maintain Current/Hyp/Rei,Insects,Spiritual-philosophical Fulfilment,4.2,-33.8,28.2,Species Richness,4
+Maintain Current/Hyp/Rei/SW,Insects,Adequate Resources,4.2,-33.8,28.2,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Insects,Aesthetically Pleasing Environment,0.6,-17.4,30.6,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Insects,Benign Physical Environment,0,-43.8,38,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Insects,Cultural Heritage Fulfilment,4.2,-33.8,28.2,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Insects,Meaningful Occupation,1.8,-41,4.8,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Insects,Protection from other Organisms,0,-11,30,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Insects,Recreational Enjoyment,0,-11,30,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Insects,Social Fulfilment,0,-19,20,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Insects,Spiritual-philosophical Fulfilment,4.2,-33.8,28.2,Species Richness,5
+Maintain Current/Hyp/SW,Insects,Adequate Resources,4.2,-33.8,28.2,Species Richness,6
+Maintain Current/Hyp/SW,Insects,Aesthetically Pleasing Environment,0.6,-17.4,30.6,Species Richness,6
+Maintain Current/Hyp/SW,Insects,Benign Physical Environment,0,-43.8,38,Species Richness,6
+Maintain Current/Hyp/SW,Insects,Cultural Heritage Fulfilment,4.2,-33.8,28.2,Species Richness,6
+Maintain Current/Hyp/SW,Insects,Meaningful Occupation,1.8,-41,4.8,Species Richness,6
+Maintain Current/Hyp/SW,Insects,Protection from other Organisms,0,-11,30,Species Richness,6
+Maintain Current/Hyp/SW,Insects,Recreational Enjoyment,0,-11,30,Species Richness,6
+Maintain Current/Hyp/SW,Insects,Social Fulfilment,0,-19,20,Species Richness,6
+Maintain Current/Hyp/SW,Insects,Spiritual-philosophical Fulfilment,4.2,-33.8,28.2,Species Richness,6
+Maintain Current/Rei,Insects,Adequate Resources,-0.42,-40.44,26.4,Species Richness,7
+Maintain Current/Rei,Insects,Aesthetically Pleasing Environment,-0.06,-17.4,30.24,Species Richness,7
+Maintain Current/Rei,Insects,Benign Physical Environment,0,-42.12,38,Species Richness,7
+Maintain Current/Rei,Insects,Cultural Heritage Fulfilment,-0.42,-40.44,26.4,Species Richness,7
+Maintain Current/Rei,Insects,Meaningful Occupation,-0.18,-62.48,4.8,Species Richness,7
+Maintain Current/Rei,Insects,Protection from other Organisms,0,-11,29.64,Species Richness,7
+Maintain Current/Rei,Insects,Recreational Enjoyment,0,-19,19.64,Species Richness,7
+Maintain Current/Rei,Insects,Social Fulfilment,0,-19,19.64,Species Richness,7
+Maintain Current/Rei,Insects,Spiritual-philosophical Fulfilment,-0.42,-40.44,26.4,Species Richness,7
+Maintain Current/Rei/SW,Insects,Adequate Resources,-0.42,-40.44,26.4,Species Richness,8
+Maintain Current/Rei/SW,Insects,Aesthetically Pleasing Environment,-0.06,-17.4,30.24,Species Richness,8
+Maintain Current/Rei/SW,Insects,Benign Physical Environment,0,-42.12,38,Species Richness,8
+Maintain Current/Rei/SW,Insects,Cultural Heritage Fulfilment,-0.42,-40.44,26.4,Species Richness,8
+Maintain Current/Rei/SW,Insects,Meaningful Occupation,-0.18,-62.48,4.8,Species Richness,8
+Maintain Current/Rei/SW,Insects,Protection from other Organisms,0,-11,29.64,Species Richness,8
+Maintain Current/Rei/SW,Insects,Recreational Enjoyment,0,-19,19.64,Species Richness,8
+Maintain Current/Rei/SW,Insects,Social Fulfilment,0,-19,19.64,Species Richness,8
+Maintain Current/Rei/SW,Insects,Spiritual-philosophical Fulfilment,-0.42,-40.44,26.4,Species Richness,8
+Maintain Current/SW,Insects,Adequate Resources,-0.42,-40.44,26.4,Species Richness,9
+Maintain Current/SW,Insects,Aesthetically Pleasing Environment,-0.06,-17.4,30.24,Species Richness,9
+Maintain Current/SW,Insects,Benign Physical Environment,0,-42.12,38,Species Richness,9
+Maintain Current/SW,Insects,Cultural Heritage Fulfilment,-0.42,-40.44,26.4,Species Richness,9
+Maintain Current/SW,Insects,Meaningful Occupation,-0.18,-62.48,4.8,Species Richness,9
+Maintain Current/SW,Insects,Protection from other Organisms,0,-11,29.64,Species Richness,9
+Maintain Current/SW,Insects,Recreational Enjoyment,0,-19,19.64,Species Richness,9
+Maintain Current/SW,Insects,Social Fulfilment,0,-19,19.64,Species Richness,9
+Maintain Current/SW,Insects,Spiritual-philosophical Fulfilment,-0.42,-40.44,26.4,Species Richness,9
+Do nothing,Lake Danger reeds,Adequate Resources,-7.2,-38,36.2,Abundance,1
+Do nothing,Lake Danger reeds,Aesthetically Pleasing Environment,-10.8,-41,35.8,Abundance,1
+Do nothing,Lake Danger reeds,Benign Physical Environment,-7.2,-38,36.2,Abundance,1
+Do nothing,Lake Danger reeds,Cultural Heritage Fulfilment,-7.2,-38,36.2,Abundance,1
+Do nothing,Lake Danger reeds,Meaningful Occupation,-7.2,-38,36.2,Abundance,1
+Do nothing,Lake Danger reeds,Protection from other Organisms,-1.2,-10,32.4,Abundance,1
+Do nothing,Lake Danger reeds,Recreational Enjoyment,-1.2,-10,32.4,Abundance,1
+Do nothing,Lake Danger reeds,Social Fulfilment,-1.2,-10,32.4,Abundance,1
+Do nothing,Lake Danger reeds,Spiritual-philosophical Fulfilment,-1.2,-10,32.4,Abundance,1
+Maintain Current,Lake Danger reeds,Adequate Resources,0,-38,40.2,Abundance,2
+Maintain Current,Lake Danger reeds,Aesthetically Pleasing Environment,0,-41,44.6,Abundance,2
+Maintain Current,Lake Danger reeds,Benign Physical Environment,0,-38,40.2,Abundance,2
+Maintain Current,Lake Danger reeds,Cultural Heritage Fulfilment,0,-38,40.2,Abundance,2
+Maintain Current,Lake Danger reeds,Meaningful Occupation,0,-38,40.2,Abundance,2
+Maintain Current,Lake Danger reeds,Protection from other Organisms,0,-10,34.6,Abundance,2
+Maintain Current,Lake Danger reeds,Recreational Enjoyment,0,-10,34.6,Abundance,2
+Maintain Current,Lake Danger reeds,Social Fulfilment,0,-10,34.6,Abundance,2
+Maintain Current,Lake Danger reeds,Spiritual-philosophical Fulfilment,0,-10,34.6,Abundance,2
+Maintain Current/Hyp,Lake Danger reeds,Adequate Resources,0,-38,40.2,Abundance,3
+Maintain Current/Hyp,Lake Danger reeds,Aesthetically Pleasing Environment,0,-41,44.6,Abundance,3
+Maintain Current/Hyp,Lake Danger reeds,Benign Physical Environment,0,-38,40.2,Abundance,3
+Maintain Current/Hyp,Lake Danger reeds,Cultural Heritage Fulfilment,0,-38,40.2,Abundance,3
+Maintain Current/Hyp,Lake Danger reeds,Meaningful Occupation,0,-38,40.2,Abundance,3
+Maintain Current/Hyp,Lake Danger reeds,Protection from other Organisms,0,-10,34.6,Abundance,3
+Maintain Current/Hyp,Lake Danger reeds,Recreational Enjoyment,0,-10,34.6,Abundance,3
+Maintain Current/Hyp,Lake Danger reeds,Social Fulfilment,0,-10,34.6,Abundance,3
+Maintain Current/Hyp,Lake Danger reeds,Spiritual-philosophical Fulfilment,0,-10,34.6,Abundance,3
+Maintain Current/Hyp/Rei,Lake Danger reeds,Adequate Resources,0,-38,40.2,Abundance,4
+Maintain Current/Hyp/Rei,Lake Danger reeds,Aesthetically Pleasing Environment,0,-41,44.6,Abundance,4
+Maintain Current/Hyp/Rei,Lake Danger reeds,Benign Physical Environment,0,-38,40.2,Abundance,4
+Maintain Current/Hyp/Rei,Lake Danger reeds,Cultural Heritage Fulfilment,0,-38,40.2,Abundance,4
+Maintain Current/Hyp/Rei,Lake Danger reeds,Meaningful Occupation,0,-38,40.2,Abundance,4
+Maintain Current/Hyp/Rei,Lake Danger reeds,Protection from other Organisms,0,-10,34.6,Abundance,4
+Maintain Current/Hyp/Rei,Lake Danger reeds,Recreational Enjoyment,0,-10,34.6,Abundance,4
+Maintain Current/Hyp/Rei,Lake Danger reeds,Social Fulfilment,0,-10,34.6,Abundance,4
+Maintain Current/Hyp/Rei,Lake Danger reeds,Spiritual-philosophical Fulfilment,0,-10,34.6,Abundance,4
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Adequate Resources,0,-38,40.2,Abundance,5
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Aesthetically Pleasing Environment,0,-41,44.6,Abundance,5
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Benign Physical Environment,0,-38,40.2,Abundance,5
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Cultural Heritage Fulfilment,0,-38,40.2,Abundance,5
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Meaningful Occupation,0,-38,40.2,Abundance,5
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Protection from other Organisms,0,-10,34.6,Abundance,5
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Recreational Enjoyment,0,-10,34.6,Abundance,5
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Social Fulfilment,0,-10,34.6,Abundance,5
+Maintain Current/Hyp/Rei/SW,Lake Danger reeds,Spiritual-philosophical Fulfilment,0,-10,34.6,Abundance,5
+Maintain Current/Hyp/SW,Lake Danger reeds,Adequate Resources,0,-38,40.2,Abundance,6
+Maintain Current/Hyp/SW,Lake Danger reeds,Aesthetically Pleasing Environment,0,-41,44.6,Abundance,6
+Maintain Current/Hyp/SW,Lake Danger reeds,Benign Physical Environment,0,-38,40.2,Abundance,6
+Maintain Current/Hyp/SW,Lake Danger reeds,Cultural Heritage Fulfilment,0,-38,40.2,Abundance,6
+Maintain Current/Hyp/SW,Lake Danger reeds,Meaningful Occupation,0,-38,40.2,Abundance,6
+Maintain Current/Hyp/SW,Lake Danger reeds,Protection from other Organisms,0,-10,34.6,Abundance,6
+Maintain Current/Hyp/SW,Lake Danger reeds,Recreational Enjoyment,0,-10,34.6,Abundance,6
+Maintain Current/Hyp/SW,Lake Danger reeds,Social Fulfilment,0,-10,34.6,Abundance,6
+Maintain Current/Hyp/SW,Lake Danger reeds,Spiritual-philosophical Fulfilment,0,-10,34.6,Abundance,6
+Maintain Current/Rei,Lake Danger reeds,Adequate Resources,0,-38,40.2,Abundance,7
+Maintain Current/Rei,Lake Danger reeds,Aesthetically Pleasing Environment,0,-41,44.6,Abundance,7
+Maintain Current/Rei,Lake Danger reeds,Benign Physical Environment,0,-38,40.2,Abundance,7
+Maintain Current/Rei,Lake Danger reeds,Cultural Heritage Fulfilment,0,-38,40.2,Abundance,7
+Maintain Current/Rei,Lake Danger reeds,Meaningful Occupation,0,-38,40.2,Abundance,7
+Maintain Current/Rei,Lake Danger reeds,Protection from other Organisms,0,-10,34.6,Abundance,7
+Maintain Current/Rei,Lake Danger reeds,Recreational Enjoyment,0,-10,34.6,Abundance,7
+Maintain Current/Rei,Lake Danger reeds,Social Fulfilment,0,-10,34.6,Abundance,7
+Maintain Current/Rei,Lake Danger reeds,Spiritual-philosophical Fulfilment,0,-10,34.6,Abundance,7
+Maintain Current/Rei/SW,Lake Danger reeds,Adequate Resources,0,-38,40.2,Abundance,8
+Maintain Current/Rei/SW,Lake Danger reeds,Aesthetically Pleasing Environment,0,-41,44.6,Abundance,8
+Maintain Current/Rei/SW,Lake Danger reeds,Benign Physical Environment,0,-38,40.2,Abundance,8
+Maintain Current/Rei/SW,Lake Danger reeds,Cultural Heritage Fulfilment,0,-38,40.2,Abundance,8
+Maintain Current/Rei/SW,Lake Danger reeds,Meaningful Occupation,0,-38,40.2,Abundance,8
+Maintain Current/Rei/SW,Lake Danger reeds,Protection from other Organisms,0,-10,34.6,Abundance,8
+Maintain Current/Rei/SW,Lake Danger reeds,Recreational Enjoyment,0,-10,34.6,Abundance,8
+Maintain Current/Rei/SW,Lake Danger reeds,Social Fulfilment,0,-10,34.6,Abundance,8
+Maintain Current/Rei/SW,Lake Danger reeds,Spiritual-philosophical Fulfilment,0,-10,34.6,Abundance,8
+Maintain Current/SW,Lake Danger reeds,Adequate Resources,0,-38,40.2,Abundance,9
+Maintain Current/SW,Lake Danger reeds,Aesthetically Pleasing Environment,0,-41,44.6,Abundance,9
+Maintain Current/SW,Lake Danger reeds,Benign Physical Environment,0,-38,40.2,Abundance,9
+Maintain Current/SW,Lake Danger reeds,Cultural Heritage Fulfilment,0,-38,40.2,Abundance,9
+Maintain Current/SW,Lake Danger reeds,Meaningful Occupation,0,-38,40.2,Abundance,9
+Maintain Current/SW,Lake Danger reeds,Protection from other Organisms,0,-10,34.6,Abundance,9
+Maintain Current/SW,Lake Danger reeds,Recreational Enjoyment,0,-10,34.6,Abundance,9
+Maintain Current/SW,Lake Danger reeds,Social Fulfilment,0,-10,34.6,Abundance,9
+Maintain Current/SW,Lake Danger reeds,Spiritual-philosophical Fulfilment,0,-10,34.6,Abundance,9
+Do nothing,Native Fish,Adequate Resources,-4.55,-43.28,23.49,Species Richness,1
+Do nothing,Native Fish,Aesthetically Pleasing Environment,0,-11,11.36,Species Richness,1
+Do nothing,Native Fish,Benign Physical Environment,0,-11,11.36,Species Richness,1
+Do nothing,Native Fish,Cultural Heritage Fulfilment,-5.77,-40.45,24.45,Species Richness,1
+Do nothing,Native Fish,Meaningful Occupation,-8.85,-43.53,21.36,Species Richness,1
+Do nothing,Native Fish,Protection from other Organisms,-0.68,-17.62,29.74,Species Richness,1
+Do nothing,Native Fish,Recreational Enjoyment,-4.55,-43.28,23.49,Species Richness,1
+Do nothing,Native Fish,Social Fulfilment,-4.55,-43.28,23.49,Species Richness,1
+Do nothing,Native Fish,Spiritual-philosophical Fulfilment,-4.55,-43.28,23.49,Species Richness,1
+Maintain Current,Native Fish,Adequate Resources,-1.79,-39.45,26.04,Species Richness,2
+Maintain Current,Native Fish,Aesthetically Pleasing Environment,0,-11,11.87,Species Richness,2
+Maintain Current,Native Fish,Benign Physical Environment,0,-11,11.87,Species Richness,2
+Maintain Current,Native Fish,Cultural Heritage Fulfilment,-2.3,-30.87,24.45,Species Richness,2
+Maintain Current,Native Fish,Meaningful Occupation,-3.57,-33.96,21.36,Species Richness,2
+Maintain Current,Native Fish,Protection from other Organisms,-0.26,-17.62,30.26,Species Richness,2
+Maintain Current,Native Fish,Recreational Enjoyment,-1.79,-39.45,26.04,Species Richness,2
+Maintain Current,Native Fish,Social Fulfilment,-1.79,-39.45,26.04,Species Richness,2
+Maintain Current,Native Fish,Spiritual-philosophical Fulfilment,-1.79,-39.45,26.04,Species Richness,2
+Maintain Current/Hyp,Native Fish,Adequate Resources,-1.79,-39.45,26.04,Species Richness,3
+Maintain Current/Hyp,Native Fish,Aesthetically Pleasing Environment,0,-11,11.87,Species Richness,3
+Maintain Current/Hyp,Native Fish,Benign Physical Environment,0,-11,11.87,Species Richness,3
+Maintain Current/Hyp,Native Fish,Cultural Heritage Fulfilment,-2.3,-30.87,24.45,Species Richness,3
+Maintain Current/Hyp,Native Fish,Meaningful Occupation,-3.57,-33.96,21.36,Species Richness,3
+Maintain Current/Hyp,Native Fish,Protection from other Organisms,-0.26,-17.62,30.26,Species Richness,3
+Maintain Current/Hyp,Native Fish,Recreational Enjoyment,-1.79,-39.45,26.04,Species Richness,3
+Maintain Current/Hyp,Native Fish,Social Fulfilment,-1.79,-39.45,26.04,Species Richness,3
+Maintain Current/Hyp,Native Fish,Spiritual-philosophical Fulfilment,-1.79,-39.45,26.04,Species Richness,3
+Maintain Current/Hyp/Rei,Native Fish,Adequate Resources,2.68,-29.32,26.68,Species Richness,4
+Maintain Current/Hyp/Rei,Native Fish,Aesthetically Pleasing Environment,0,-11,12,Species Richness,4
+Maintain Current/Hyp/Rei,Native Fish,Benign Physical Environment,0,-11,12,Species Richness,4
+Maintain Current/Hyp/Rei,Native Fish,Cultural Heritage Fulfilment,3.45,-20.55,24.45,Species Richness,4
+Maintain Current/Hyp/Rei,Native Fish,Meaningful Occupation,5.36,-23.64,21.36,Species Richness,4
+Maintain Current/Hyp/Rei,Native Fish,Protection from other Organisms,0.38,-17.62,30.38,Species Richness,4
+Maintain Current/Hyp/Rei,Native Fish,Recreational Enjoyment,2.68,-29.32,26.68,Species Richness,4
+Maintain Current/Hyp/Rei,Native Fish,Social Fulfilment,2.68,-29.32,26.68,Species Richness,4
+Maintain Current/Hyp/Rei,Native Fish,Spiritual-philosophical Fulfilment,2.68,-29.32,26.68,Species Richness,4
+Maintain Current/Hyp/Rei/SW,Native Fish,Adequate Resources,2.68,-29.32,26.68,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Native Fish,Aesthetically Pleasing Environment,0,-11,12,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Native Fish,Benign Physical Environment,0,-11,12,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Native Fish,Cultural Heritage Fulfilment,3.45,-20.55,24.45,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Native Fish,Meaningful Occupation,5.36,-23.64,21.36,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Native Fish,Protection from other Organisms,0.38,-17.62,30.38,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Native Fish,Recreational Enjoyment,2.68,-29.32,26.68,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Native Fish,Social Fulfilment,2.68,-29.32,26.68,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Native Fish,Spiritual-philosophical Fulfilment,2.68,-29.32,26.68,Species Richness,5
+Maintain Current/Hyp/SW,Native Fish,Adequate Resources,-1.79,-39.45,26.04,Species Richness,6
+Maintain Current/Hyp/SW,Native Fish,Aesthetically Pleasing Environment,0,-11,11.87,Species Richness,6
+Maintain Current/Hyp/SW,Native Fish,Benign Physical Environment,0,-11,11.87,Species Richness,6
+Maintain Current/Hyp/SW,Native Fish,Cultural Heritage Fulfilment,-2.3,-30.87,24.45,Species Richness,6
+Maintain Current/Hyp/SW,Native Fish,Meaningful Occupation,-3.57,-33.96,21.36,Species Richness,6
+Maintain Current/Hyp/SW,Native Fish,Protection from other Organisms,-0.26,-17.62,30.26,Species Richness,6
+Maintain Current/Hyp/SW,Native Fish,Recreational Enjoyment,-1.79,-39.45,26.04,Species Richness,6
+Maintain Current/Hyp/SW,Native Fish,Social Fulfilment,-1.79,-39.45,26.04,Species Richness,6
+Maintain Current/Hyp/SW,Native Fish,Spiritual-philosophical Fulfilment,-1.79,-39.45,26.04,Species Richness,6
+Maintain Current/Rei,Native Fish,Adequate Resources,2.68,-29.32,26.68,Species Richness,7
+Maintain Current/Rei,Native Fish,Aesthetically Pleasing Environment,0,-11,12,Species Richness,7
+Maintain Current/Rei,Native Fish,Benign Physical Environment,0,-11,12,Species Richness,7
+Maintain Current/Rei,Native Fish,Cultural Heritage Fulfilment,3.45,-20.55,24.45,Species Richness,7
+Maintain Current/Rei,Native Fish,Meaningful Occupation,5.36,-23.64,21.36,Species Richness,7
+Maintain Current/Rei,Native Fish,Protection from other Organisms,0.38,-17.62,30.38,Species Richness,7
+Maintain Current/Rei,Native Fish,Recreational Enjoyment,2.68,-29.32,26.68,Species Richness,7
+Maintain Current/Rei,Native Fish,Social Fulfilment,2.68,-29.32,26.68,Species Richness,7
+Maintain Current/Rei,Native Fish,Social Fulfilment,2.68,-29.32,26.68,Species Richness,7
+Maintain Current/Rei/SW,Native Fish,Adequate Resources,2.68,-29.32,26.68,Species Richness,8
+Maintain Current/Rei/SW,Native Fish,Aesthetically Pleasing Environment,0,-11,12,Species Richness,8
+Maintain Current/Rei/SW,Native Fish,Benign Physical Environment,0,-11,12,Species Richness,8
+Maintain Current/Rei/SW,Native Fish,Cultural Heritage Fulfilment,3.45,-20.55,24.45,Species Richness,8
+Maintain Current/Rei/SW,Native Fish,Meaningful Occupation,5.36,-23.64,21.36,Species Richness,8
+Maintain Current/Rei/SW,Native Fish,Protection from other Organisms,0.38,-17.62,30.38,Species Richness,8
+Maintain Current/Rei/SW,Native Fish,Recreational Enjoyment,2.68,-29.32,26.68,Species Richness,8
+Maintain Current/Rei/SW,Native Fish,Social Fulfilment,2.68,-29.32,26.68,Species Richness,8
+Maintain Current/Rei/SW,Native Fish,Spiritual-philosophical Fulfilment,2.68,-29.32,26.68,Species Richness,8
+Maintain Current/SW,Native Fish,Adequate Resources,-0.89,-34.43,26.04,Species Richness,9
+Maintain Current/SW,Native Fish,Aesthetically Pleasing Environment,0,-11,11.87,Species Richness,9
+Maintain Current/SW,Native Fish,Benign Physical Environment,0,-11,11.87,Species Richness,9
+Maintain Current/SW,Native Fish,Cultural Heritage Fulfilment,-1.15,-25.66,24.45,Species Richness,9
+Maintain Current/SW,Native Fish,Meaningful Occupation,-1.79,-28.74,21.36,Species Richness,9
+Maintain Current/SW,Native Fish,Protection from other Organisms,-0.13,-17.62,30.26,Species Richness,9
+Maintain Current/SW,Native Fish,Recreational Enjoyment,-0.89,-34.43,26.04,Species Richness,9
+Maintain Current/SW,Native Fish,Social Fulfilment,-0.89,-34.43,26.04,Species Richness,9
+Maintain Current/SW,Native Fish,Spiritual-philosophical Fulfilment,-0.89,-34.43,26.04,Species Richness,9
+Do nothing,Revegetated Forrest,Adequate Resources,-7.16,-28.53,32.79,Species Richness,1
+Do nothing,Revegetated Forrest,Aesthetically Pleasing Environment,-7.16,-28.53,32.79,Species Richness,1
+Do nothing,Revegetated Forrest,Benign Physical Environment,-4.63,-25.84,26.84,Species Richness,1
+Do nothing,Revegetated Forrest,Cultural Heritage Fulfilment,-4.63,-25.84,25.37,Species Richness,1
+Do nothing,Revegetated Forrest,Meaningful Occupation,-4.63,-25.84,25.37,Species Richness,1
+Do nothing,Revegetated Forrest,Protection from other Organisms,-2.11,-8.42,29.21,Species Richness,1
+Do nothing,Revegetated Forrest,Recreational Enjoyment,-2.11,-8.42,29.21,Species Richness,1
+Do nothing,Revegetated Forrest,Social Fulfilment,-2.11,-8.42,29.21,Species Richness,1
+Do nothing,Revegetated Forrest,Spiritual-philosophical Fulfilment,-2.11,-8.42,29.21,Species Richness,1
+Maintain Current,Revegetated Forrest,Adequate Resources,0,-28.53,32.79,Species Richness,2
+Maintain Current,Revegetated Forrest,Aesthetically Pleasing Environment,0,-28.53,32.79,Species Richness,2
+Maintain Current,Revegetated Forrest,Benign Physical Environment,0,-25.84,26.84,Species Richness,2
+Maintain Current,Revegetated Forrest,Cultural Heritage Fulfilment,0,-25.84,25.37,Species Richness,2
+Maintain Current,Revegetated Forrest,Meaningful Occupation,0,-25.84,25.37,Species Richness,2
+Maintain Current,Revegetated Forrest,Protection from other Organisms,0,-8.42,29.21,Species Richness,2
+Maintain Current,Revegetated Forrest,Recreational Enjoyment,0,-8.42,29.21,Species Richness,2
+Maintain Current,Revegetated Forrest,Social Fulfilment,0,-8.42,29.21,Species Richness,2
+Maintain Current,Revegetated Forrest,Spiritual-philosophical Fulfilment,0,-8.42,29.21,Species Richness,2
+Maintain Current/Hyp,Revegetated Forrest,Adequate Resources,0,-28.53,32.79,Species Richness,3
+Maintain Current/Hyp,Revegetated Forrest,Aesthetically Pleasing Environment,0,-28.53,32.79,Species Richness,3
+Maintain Current/Hyp,Revegetated Forrest,Benign Physical Environment,0,-25.84,26.84,Species Richness,3
+Maintain Current/Hyp,Revegetated Forrest,Cultural Heritage Fulfilment,0,-25.84,25.37,Species Richness,3
+Maintain Current/Hyp,Revegetated Forrest,Meaningful Occupation,0,-25.84,25.37,Species Richness,3
+Maintain Current/Hyp,Revegetated Forrest,Protection from other Organisms,0,-8.42,29.21,Species Richness,3
+Maintain Current/Hyp,Revegetated Forrest,Recreational Enjoyment,0,-8.42,29.21,Species Richness,3
+Maintain Current/Hyp,Revegetated Forrest,Social Fulfilment,0,-8.42,29.21,Species Richness,3
+Maintain Current/Hyp,Revegetated Forrest,Spiritual-philosophical Fulfilment,0,-8.42,29.21,Species Richness,3
+Maintain Current/Hyp/Rei,Revegetated Forrest,Adequate Resources,35.47,-10,59.47,Species Richness,4
+Maintain Current/Hyp/Rei,Revegetated Forrest,Aesthetically Pleasing Environment,35.47,-10,59.47,Species Richness,4
+Maintain Current/Hyp/Rei,Revegetated Forrest,Benign Physical Environment,13.16,-25.84,48.16,Species Richness,4
+Maintain Current/Hyp/Rei,Revegetated Forrest,Cultural Heritage Fulfilment,10.16,-25.84,37.16,Species Richness,4
+Maintain Current/Hyp/Rei,Revegetated Forrest,Meaningful Occupation,10.16,-25.84,37.16,Species Richness,4
+Maintain Current/Hyp/Rei,Revegetated Forrest,Protection from other Organisms,9.58,-8.42,39.58,Species Richness,4
+Maintain Current/Hyp/Rei,Revegetated Forrest,Recreational Enjoyment,9.58,-8.42,39.58,Species Richness,4
+Maintain Current/Hyp/Rei,Revegetated Forrest,Social Fulfilment,9.58,-8.42,39.58,Species Richness,4
+Maintain Current/Hyp/Rei,Revegetated Forrest,Spiritual-philosophical Fulfilment,9.58,-8.42,39.58,Species Richness,4
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Adequate Resources,0,-28.53,32.79,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Aesthetically Pleasing Environment,0,-28.53,32.79,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Benign Physical Environment,0,-25.84,26.84,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Cultural Heritage Fulfilment,0,-25.84,25.37,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Meaningful Occupation,0,-25.84,25.37,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Protection from other Organisms,0,-8.42,29.21,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Recreational Enjoyment,0,-8.42,29.21,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Social Fulfilment,0,-8.42,29.21,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Revegetated Forrest,Spiritual-philosophical Fulfilment,0,-8.42,29.21,Species Richness,5
+Maintain Current/Hyp/SW,Revegetated Forrest,Adequate Resources,0,-28.53,32.79,Species Richness,6
+Maintain Current/Hyp/SW,Revegetated Forrest,Aesthetically Pleasing Environment,0,-28.53,32.79,Species Richness,6
+Maintain Current/Hyp/SW,Revegetated Forrest,Benign Physical Environment,0,-25.84,26.84,Species Richness,6
+Maintain Current/Hyp/SW,Revegetated Forrest,Cultural Heritage Fulfilment,0,-25.84,25.37,Species Richness,6
+Maintain Current/Hyp/SW,Revegetated Forrest,Meaningful Occupation,0,-25.84,25.37,Species Richness,6
+Maintain Current/Hyp/SW,Revegetated Forrest,Protection from other Organisms,0,-8.42,29.21,Species Richness,6
+Maintain Current/Hyp/SW,Revegetated Forrest,Recreational Enjoyment,0,-8.42,29.21,Species Richness,6
+Maintain Current/Hyp/SW,Revegetated Forrest,Social Fulfilment,0,-8.42,29.21,Species Richness,6
+Maintain Current/Hyp/SW,Revegetated Forrest,Spiritual-philosophical Fulfilment,0,-8.42,29.21,Species Richness,6
+Maintain Current/Rei,Revegetated Forrest,Adequate Resources,35.47,-10,59.47,Species Richness,7
+Maintain Current/Rei,Revegetated Forrest,Aesthetically Pleasing Environment,35.47,-10,59.47,Species Richness,7
+Maintain Current/Rei,Revegetated Forrest,Benign Physical Environment,13.16,-25.84,48.16,Species Richness,7
+Maintain Current/Rei,Revegetated Forrest,Cultural Heritage Fulfilment,10.16,-25.84,37.16,Species Richness,7
+Maintain Current/Rei,Revegetated Forrest,Meaningful Occupation,10.16,-25.84,37.16,Species Richness,7
+Maintain Current/Rei,Revegetated Forrest,Protection from other Organisms,9.58,-8.42,39.58,Species Richness,7
+Maintain Current/Rei,Revegetated Forrest,Recreational Enjoyment,9.58,-8.42,39.58,Species Richness,7
+Maintain Current/Rei,Revegetated Forrest,Social Fulfilment,9.58,-8.42,39.58,Species Richness,7
+Maintain Current/Rei,Revegetated Forrest,Spiritual-philosophical Fulfilment,9.58,-8.42,39.58,Species Richness,7
+Maintain Current/Rei/SW,Revegetated Forrest,Adequate Resources,35.47,-10,59.47,Species Richness,8
+Maintain Current/Rei/SW,Revegetated Forrest,Aesthetically Pleasing Environment,35.47,-10,59.47,Species Richness,8
+Maintain Current/Rei/SW,Revegetated Forrest,Benign Physical Environment,13.16,-25.84,48.16,Species Richness,8
+Maintain Current/Rei/SW,Revegetated Forrest,Cultural Heritage Fulfilment,10.16,-25.84,37.16,Species Richness,8
+Maintain Current/Rei/SW,Revegetated Forrest,Meaningful Occupation,10.16,-25.84,37.16,Species Richness,8
+Maintain Current/Rei/SW,Revegetated Forrest,Protection from other Organisms,9.58,-8.42,39.58,Species Richness,8
+Maintain Current/Rei/SW,Revegetated Forrest,Recreational Enjoyment,9.58,-8.42,39.58,Species Richness,8
+Maintain Current/Rei/SW,Revegetated Forrest,Social Fulfilment,9.58,-8.42,39.58,Species Richness,8
+Maintain Current/Rei/SW,Revegetated Forrest,Spiritual-philosophical Fulfilment,9.58,-8.42,39.58,Species Richness,8
+Maintain Current/SW,Revegetated Forrest,Adequate Resources,0,-28.53,32.79,Species Richness,9
+Maintain Current/SW,Revegetated Forrest,Aesthetically Pleasing Environment,0,-28.53,32.79,Species Richness,9
+Maintain Current/SW,Revegetated Forrest,Benign Physical Environment,0,-25.84,26.84,Species Richness,9
+Maintain Current/SW,Revegetated Forrest,Cultural Heritage Fulfilment,0,-25.84,25.37,Species Richness,9
+Maintain Current/SW,Revegetated Forrest,Meaningful Occupation,0,-25.84,25.37,Species Richness,9
+Maintain Current/SW,Revegetated Forrest,Protection from other Organisms,0,-8.42,29.21,Species Richness,9
+Maintain Current/SW,Revegetated Forrest,Recreational Enjoyment,0,-8.42,29.21,Species Richness,9
+Maintain Current/SW,Revegetated Forrest,Social Fulfilment,0,-8.42,29.21,Species Richness,9
+Maintain Current/SW,Revegetated Forrest,Spiritual-philosophical Fulfilment,0,-8.42,29.21,Species Richness,9
+Do nothing,Riparian Vegetation,Adequate Resources,-16.65,-68.49,19.7,Species Richness,1
+Do nothing,Riparian Vegetation,Aesthetically Pleasing Environment,-8.89,-44.3,22.77,Species Richness,1
+Do nothing,Riparian Vegetation,Benign Physical Environment,-9.46,-44.86,22.2,Species Richness,1
+Do nothing,Riparian Vegetation,Cultural Heritage Fulfilment,-8.89,-44.3,22.77,Species Richness,1
+Do nothing,Riparian Vegetation,Meaningful Occupation,-2.3,-17.14,28.73,Species Richness,1
+Do nothing,Riparian Vegetation,Protection from other Organisms,-16.65,-68.49,19.7,Species Richness,1
+Do nothing,Riparian Vegetation,Recreational Enjoyment,-9.46,-44.86,22.2,Species Richness,1
+Do nothing,Riparian Vegetation,Social Fulfilment,-9.46,-44.86,22.2,Species Richness,1
+Do nothing,Riparian Vegetation,Spiritual-philosophical Fulfilment,-8.89,-44.3,22.77,Species Richness,1
+Maintain Current,Riparian Vegetation,Adequate Resources,-0.95,-46.05,26.46,Species Richness,2
+Maintain Current,Riparian Vegetation,Aesthetically Pleasing Environment,-0.6,-36.17,27.44,Species Richness,2
+Maintain Current,Riparian Vegetation,Benign Physical Environment,-0.6,-36.17,27.44,Species Richness,2
+Maintain Current,Riparian Vegetation,Cultural Heritage Fulfilment,-0.6,-36.17,27.44,Species Richness,2
+Maintain Current,Riparian Vegetation,Meaningful Occupation,-0.09,-17.14,30.34,Species Richness,2
+Maintain Current,Riparian Vegetation,Protection from other Organisms,-0.95,-46.05,26.46,Species Richness,2
+Maintain Current,Riparian Vegetation,Recreational Enjoyment,-0.95,-36.73,26.88,Species Richness,2
+Maintain Current,Riparian Vegetation,Social Fulfilment,-0.95,-36.73,26.88,Species Richness,2
+Maintain Current,Riparian Vegetation,Spiritual-philosophical Fulfilment,-0.95,-36.73,26.88,Species Richness,2
+Maintain Current/Hyp,Riparian Vegetation,Adequate Resources,-0.95,-46.05,26.46,Species Richness,3
+Maintain Current/Hyp,Riparian Vegetation,Aesthetically Pleasing Environment,-0.6,-36.17,27.44,Species Richness,3
+Maintain Current/Hyp,Riparian Vegetation,Benign Physical Environment,-0.6,-36.17,27.44,Species Richness,3
+Maintain Current/Hyp,Riparian Vegetation,Cultural Heritage Fulfilment,-0.6,-36.17,27.44,Species Richness,3
+Maintain Current/Hyp,Riparian Vegetation,Meaningful Occupation,-0.09,-17.14,30.34,Species Richness,3
+Maintain Current/Hyp,Riparian Vegetation,Protection from other Organisms,-0.95,-46.05,26.46,Species Richness,3
+Maintain Current/Hyp,Riparian Vegetation,Recreational Enjoyment,-0.95,-36.73,26.88,Species Richness,3
+Maintain Current/Hyp,Riparian Vegetation,Social Fulfilment,-0.95,-36.73,26.88,Species Richness,3
+Maintain Current/Hyp,Riparian Vegetation,Spiritual-philosophical Fulfilment,-0.95,-36.73,26.88,Species Richness,3
+Maintain Current/Hyp/Rei,Riparian Vegetation,Adequate Resources,-0.95,-46.05,26.46,Species Richness,4
+Maintain Current/Hyp/Rei,Riparian Vegetation,Aesthetically Pleasing Environment,-0.6,-36.17,27.44,Species Richness,4
+Maintain Current/Hyp/Rei,Riparian Vegetation,Benign Physical Environment,-0.6,-36.17,27.44,Species Richness,4
+Maintain Current/Hyp/Rei,Riparian Vegetation,Cultural Heritage Fulfilment,-0.6,-36.17,27.44,Species Richness,4
+Maintain Current/Hyp/Rei,Riparian Vegetation,Meaningful Occupation,-0.09,-17.14,30.34,Species Richness,4
+Maintain Current/Hyp/Rei,Riparian Vegetation,Protection from other Organisms,-0.95,-46.05,26.46,Species Richness,4
+Maintain Current/Hyp/Rei,Riparian Vegetation,Recreational Enjoyment,-0.95,-36.73,26.88,Species Richness,4
+Maintain Current/Hyp/Rei,Riparian Vegetation,Social Fulfilment,-0.95,-36.73,26.88,Species Richness,4
+Maintain Current/Hyp/Rei,Riparian Vegetation,Spiritual-philosophical Fulfilment,-0.95,-36.73,26.88,Species Richness,4
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Adequate Resources,0,-44.51,26.46,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Aesthetically Pleasing Environment,0,-35.44,30.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Benign Physical Environment,0,-35.44,30.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Cultural Heritage Fulfilment,0,-35.44,30.02,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Meaningful Occupation,0,-17.14,30.86,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Protection from other Organisms,0,-44.51,26.46,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Recreational Enjoyment,0,-36,29.46,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Social Fulfilment,0,-36,29.46,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Riparian Vegetation,Spiritual-philosophical Fulfilment,0,-36,29.46,Species Richness,5
+Maintain Current/Hyp/SW,Riparian Vegetation,Adequate Resources,0,-44.51,26.46,Species Richness,6
+Maintain Current/Hyp/SW,Riparian Vegetation,Aesthetically Pleasing Environment,0,-35.44,30.02,Species Richness,6
+Maintain Current/Hyp/SW,Riparian Vegetation,Benign Physical Environment,0,-35.44,30.02,Species Richness,6
+Maintain Current/Hyp/SW,Riparian Vegetation,Cultural Heritage Fulfilment,0,-35.44,30.02,Species Richness,6
+Maintain Current/Hyp/SW,Riparian Vegetation,Meaningful Occupation,0,-17.14,30.86,Species Richness,6
+Maintain Current/Hyp/SW,Riparian Vegetation,Protection from other Organisms,0,-44.51,26.46,Species Richness,6
+Maintain Current/Hyp/SW,Riparian Vegetation,Recreational Enjoyment,0,-36,29.46,Species Richness,6
+Maintain Current/Hyp/SW,Riparian Vegetation,Social Fulfilment,0,-36,29.46,Species Richness,6
+Maintain Current/Hyp/SW,Riparian Vegetation,Spiritual-philosophical Fulfilment,0,-36,29.46,Species Richness,6
+Maintain Current/Rei,Riparian Vegetation,Adequate Resources,-0.95,-46.05,26.46,Species Richness,7
+Maintain Current/Rei,Riparian Vegetation,Aesthetically Pleasing Environment,-0.6,-36.17,27.44,Species Richness,7
+Maintain Current/Rei,Riparian Vegetation,Benign Physical Environment,-0.6,-36.17,27.44,Species Richness,7
+Maintain Current/Rei,Riparian Vegetation,Cultural Heritage Fulfilment,-0.6,-36.17,27.44,Species Richness,7
+Maintain Current/Rei,Riparian Vegetation,Meaningful Occupation,-0.09,-17.14,30.34,Species Richness,7
+Maintain Current/Rei,Riparian Vegetation,Protection from other Organisms,-0.95,-46.05,26.46,Species Richness,7
+Maintain Current/Rei,Riparian Vegetation,Recreational Enjoyment,-0.95,-36.73,26.88,Species Richness,7
+Maintain Current/Rei,Riparian Vegetation,Social Fulfilment,-0.95,-36.73,26.88,Species Richness,7
+Maintain Current/Rei,Riparian Vegetation,Spiritual-philosophical Fulfilment,-0.95,-36.73,26.88,Species Richness,7
+Maintain Current/Rei/SW,Riparian Vegetation,Adequate Resources,0,-44.51,26.46,Species Richness,8
+Maintain Current/Rei/SW,Riparian Vegetation,Aesthetically Pleasing Environment,0,-35.44,30.02,Species Richness,8
+Maintain Current/Rei/SW,Riparian Vegetation,Benign Physical Environment,0,-35.44,30.02,Species Richness,8
+Maintain Current/Rei/SW,Riparian Vegetation,Cultural Heritage Fulfilment,0,-35.44,30.02,Species Richness,8
+Maintain Current/Rei/SW,Riparian Vegetation,Meaningful Occupation,0,-17.14,30.86,Species Richness,8
+Maintain Current/Rei/SW,Riparian Vegetation,Protection from other Organisms,0,-44.51,26.46,Species Richness,8
+Maintain Current/Rei/SW,Riparian Vegetation,Recreational Enjoyment,0,-36,29.46,Species Richness,8
+Maintain Current/Rei/SW,Riparian Vegetation,Social Fulfilment,0,-36,29.46,Species Richness,8
+Maintain Current/Rei/SW,Riparian Vegetation,Spiritual-philosophical Fulfilment,0,-36,29.46,Species Richness,8
+Maintain Current/SW,Riparian Vegetation,Adequate Resources,0,-44.51,26.46,Species Richness,9
+Maintain Current/SW,Riparian Vegetation,Aesthetically Pleasing Environment,0,-35.44,30.02,Species Richness,9
+Maintain Current/SW,Riparian Vegetation,Benign Physical Environment,0,-35.44,30.02,Species Richness,9
+Maintain Current/SW,Riparian Vegetation,Cultural Heritage Fulfilment,0,-35.44,30.02,Species Richness,9
+Maintain Current/SW,Riparian Vegetation,Meaningful Occupation,0,-17.14,30.86,Species Richness,9
+Maintain Current/SW,Riparian Vegetation,Protection from other Organisms,0,-44.51,26.46,Species Richness,9
+Maintain Current/SW,Riparian Vegetation,Recreational Enjoyment,0,-36,29.46,Species Richness,9
+Maintain Current/SW,Riparian Vegetation,Social Fulfilment,0,-36,29.46,Species Richness,9
+Maintain Current/SW,Riparian Vegetation,Spiritual-philosophical Fulfilment,0,-36,29.46,Species Richness,9
+Do nothing,Royal Rose Forrest,Adequate Resources,-35.34,-54,7.66,Abundance,1
+Do nothing,Royal Rose Forrest,Aesthetically Pleasing Environment,-70.34,-75.67,-29.34,Abundance,1
+Do nothing,Royal Rose Forrest,Benign Physical Environment,-5.34,-10.67,11.67,Abundance,1
+Do nothing,Royal Rose Forrest,Cultural Heritage Fulfilment,-35.34,-54,7.66,Abundance,1
+Do nothing,Royal Rose Forrest,Meaningful Occupation,-12,-17.33,21.66,Abundance,1
+Do nothing,Royal Rose Forrest,Protection from other Organisms,-12,-17.33,21.66,Abundance,1
+Do nothing,Royal Rose Forrest,Recreational Enjoyment,-70.34,-75.67,-29.34,Abundance,1
+Do nothing,Royal Rose Forrest,Social Fulfilment,-70.34,-75.67,-29.34,Abundance,1
+Do nothing,Royal Rose Forrest,Spiritual-philosophical Fulfilment,-24.01,-42.67,7.66,Abundance,1
+Maintain Current,Royal Rose Forrest,Adequate Resources,0,-34,27,Abundance,2
+Maintain Current,Royal Rose Forrest,Aesthetically Pleasing Environment,0,-53,24.33,Abundance,2
+Maintain Current,Royal Rose Forrest,Benign Physical Environment,0,-10.67,19.33,Abundance,2
+Maintain Current,Royal Rose Forrest,Cultural Heritage Fulfilment,0,-34,27,Abundance,2
+Maintain Current,Royal Rose Forrest,Meaningful Occupation,0,-17.33,30.67,Abundance,2
+Maintain Current,Royal Rose Forrest,Protection from other Organisms,0,-17.33,30.67,Abundance,2
+Maintain Current,Royal Rose Forrest,Recreational Enjoyment,0,-53,24.33,Abundance,2
+Maintain Current,Royal Rose Forrest,Social Fulfilment,0,-53,24.33,Abundance,2
+Maintain Current,Royal Rose Forrest,Spiritual-philosophical Fulfilment,0,-22.67,25.33,Abundance,2
+Maintain Current/Hyp,Royal Rose Forrest,Adequate Resources,0,-34,27,Abundance,3
+Maintain Current/Hyp,Royal Rose Forrest,Aesthetically Pleasing Environment,0,-53,24.33,Abundance,3
+Maintain Current/Hyp,Royal Rose Forrest,Benign Physical Environment,0,-10.67,19.33,Abundance,3
+Maintain Current/Hyp,Royal Rose Forrest,Cultural Heritage Fulfilment,0,-34,27,Abundance,3
+Maintain Current/Hyp,Royal Rose Forrest,Meaningful Occupation,0,-17.33,30.67,Abundance,3
+Maintain Current/Hyp,Royal Rose Forrest,Protection from other Organisms,0,-17.33,30.67,Abundance,3
+Maintain Current/Hyp,Royal Rose Forrest,Recreational Enjoyment,0,-53,24.33,Abundance,3
+Maintain Current/Hyp,Royal Rose Forrest,Social Fulfilment,0,-53,24.33,Abundance,3
+Maintain Current/Hyp,Royal Rose Forrest,Spiritual-philosophical Fulfilment,0,-22.67,25.33,Abundance,3
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Adequate Resources,0,-34,27,Abundance,4
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Aesthetically Pleasing Environment,0,-53,24.33,Abundance,4
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Benign Physical Environment,0,-10.67,19.33,Abundance,4
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Cultural Heritage Fulfilment,0,-34,27,Abundance,4
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Meaningful Occupation,0,-17.33,30.67,Abundance,4
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Protection from other Organisms,0,-17.33,30.67,Abundance,4
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Recreational Enjoyment,0,-53,24.33,Abundance,4
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Social Fulfilment,0,-53,24.33,Abundance,4
+Maintain Current/Hyp/Rei,Royal Rose Forrest,Spiritual-philosophical Fulfilment,0,-22.67,25.33,Abundance,4
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Adequate Resources,0,-34,27,Abundance,5
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Aesthetically Pleasing Environment,0,-53,24.33,Abundance,5
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Benign Physical Environment,0,-10.67,19.33,Abundance,5
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Cultural Heritage Fulfilment,0,-34,27,Abundance,5
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Meaningful Occupation,0,-17.33,30.67,Abundance,5
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Protection from other Organisms,0,-17.33,30.67,Abundance,5
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Recreational Enjoyment,0,-53,24.33,Abundance,5
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Social Fulfilment,0,-53,24.33,Abundance,5
+Maintain Current/Hyp/Rei/SW,Royal Rose Forrest,Spiritual-philosophical Fulfilment,0,-22.67,25.33,Abundance,5
+Maintain Current/Hyp/SW,Royal Rose Forrest,Adequate Resources,0,-34,27,Abundance,6
+Maintain Current/Hyp/SW,Royal Rose Forrest,Aesthetically Pleasing Environment,0,-53,24.33,Abundance,6
+Maintain Current/Hyp/SW,Royal Rose Forrest,Benign Physical Environment,0,-10.67,19.33,Abundance,6
+Maintain Current/Hyp/SW,Royal Rose Forrest,Cultural Heritage Fulfilment,0,-34,27,Abundance,6
+Maintain Current/Hyp/SW,Royal Rose Forrest,Meaningful Occupation,0,-17.33,30.67,Abundance,6
+Maintain Current/Hyp/SW,Royal Rose Forrest,Protection from other Organisms,0,-17.33,30.67,Abundance,6
+Maintain Current/Hyp/SW,Royal Rose Forrest,Recreational Enjoyment,0,-53,24.33,Abundance,6
+Maintain Current/Hyp/SW,Royal Rose Forrest,Social Fulfilment,0,-53,24.33,Abundance,6
+Maintain Current/Hyp/SW,Royal Rose Forrest,Spiritual-philosophical Fulfilment,0,-22.67,25.33,Abundance,6
+Maintain Current/Rei,Royal Rose Forrest,Adequate Resources,0,-34,27,Abundance,7
+Maintain Current/Rei,Royal Rose Forrest,Aesthetically Pleasing Environment,0,-53,24.33,Abundance,7
+Maintain Current/Rei,Royal Rose Forrest,Benign Physical Environment,0,-10.67,19.33,Abundance,7
+Maintain Current/Rei,Royal Rose Forrest,Cultural Heritage Fulfilment,0,-34,27,Abundance,7
+Maintain Current/Rei,Royal Rose Forrest,Meaningful Occupation,0,-17.33,30.67,Abundance,7
+Maintain Current/Rei,Royal Rose Forrest,Protection from other Organisms,0,-17.33,30.67,Abundance,7
+Maintain Current/Rei,Royal Rose Forrest,Recreational Enjoyment,0,-53,24.33,Abundance,7
+Maintain Current/Rei,Royal Rose Forrest,Social Fulfilment,0,-53,24.33,Abundance,7
+Maintain Current/Rei,Royal Rose Forrest,Spiritual-philosophical Fulfilment,0,-22.67,25.33,Abundance,7
+Maintain Current/Rei/SW,Royal Rose Forrest,Adequate Resources,0,-34,27,Abundance,8
+Maintain Current/Rei/SW,Royal Rose Forrest,Aesthetically Pleasing Environment,0,-53,24.33,Abundance,8
+Maintain Current/Rei/SW,Royal Rose Forrest,Benign Physical Environment,0,-10.67,19.33,Abundance,8
+Maintain Current/Rei/SW,Royal Rose Forrest,Cultural Heritage Fulfilment,0,-34,27,Abundance,8
+Maintain Current/Rei/SW,Royal Rose Forrest,Meaningful Occupation,0,-17.33,30.67,Abundance,8
+Maintain Current/Rei/SW,Royal Rose Forrest,Protection from other Organisms,0,-17.33,30.67,Abundance,8
+Maintain Current/Rei/SW,Royal Rose Forrest,Recreational Enjoyment,0,-53,24.33,Abundance,8
+Maintain Current/Rei/SW,Royal Rose Forrest,Social Fulfilment,0,-53,24.33,Abundance,8
+Maintain Current/Rei/SW,Royal Rose Forrest,Spiritual-philosophical Fulfilment,0,-22.67,25.33,Abundance,8
+Maintain Current/SW,Royal Rose Forrest,Adequate Resources,0,-34,27,Abundance,9
+Maintain Current/SW,Royal Rose Forrest,Aesthetically Pleasing Environment,0,-53,24.33,Abundance,9
+Maintain Current/SW,Royal Rose Forrest,Benign Physical Environment,0,-10.67,19.33,Abundance,9
+Maintain Current/SW,Royal Rose Forrest,Cultural Heritage Fulfilment,0,-34,27,Abundance,9
+Maintain Current/SW,Royal Rose Forrest,Meaningful Occupation,0,-17.33,30.67,Abundance,9
+Maintain Current/SW,Royal Rose Forrest,Protection from other Organisms,0,-17.33,30.67,Abundance,9
+Maintain Current/SW,Royal Rose Forrest,Recreational Enjoyment,0,-53,24.33,Abundance,9
+Maintain Current/SW,Royal Rose Forrest,Social Fulfilment,0,-53,24.33,Abundance,9
+Maintain Current/SW,Royal Rose Forrest,Spiritual-philosophical Fulfilment,0,-22.67,25.33,Abundance,9
+Do nothing,Small Mammals,Adequate Resources,-8.83,-39.22,16.78,Species Richness,1
+Do nothing,Small Mammals,Aesthetically Pleasing Environment,-17.13,-56.17,19.26,Species Richness,1
+Do nothing,Small Mammals,Benign Physical Environment,-5.83,-37.43,30.3,Species Richness,1
+Do nothing,Small Mammals,Cultural Heritage Fulfilment,-17.13,-56.17,19.26,Species Richness,1
+Do nothing,Small Mammals,Meaningful Occupation,-8.83,-39.22,16.78,Species Richness,1
+Do nothing,Small Mammals,Protection from other Organisms,-8.83,-39.22,16.78,Species Richness,1
+Do nothing,Small Mammals,Recreational Enjoyment,-17.13,-56.17,19.26,Species Richness,1
+Do nothing,Small Mammals,Social Fulfilment,-4.87,-17.48,27.83,Species Richness,1
+Do nothing,Small Mammals,Spiritual-philosophical Fulfilment,-21.83,-72.13,10.17,Species Richness,1
+Maintain Current,Small Mammals,Adequate Resources,-4.65,-29.83,24.61,Species Richness,2
+Maintain Current,Small Mammals,Aesthetically Pleasing Environment,-9.57,-46.78,27.65,Species Richness,2
+Maintain Current,Small Mammals,Benign Physical Environment,-3.13,-37.43,36.57,Species Richness,2
+Maintain Current,Small Mammals,Cultural Heritage Fulfilment,-9.57,-46.78,27.65,Species Richness,2
+Maintain Current,Small Mammals,Meaningful Occupation,-4.65,-29.83,24.61,Species Richness,2
+Maintain Current,Small Mammals,Protection from other Organisms,-4.65,-29.83,24.61,Species Richness,2
+Maintain Current,Small Mammals,Recreational Enjoyment,-9.57,-46.78,27.65,Species Richness,2
+Maintain Current,Small Mammals,Social Fulfilment,-2.17,-17.48,30.52,Species Richness,2
+Maintain Current,Small Mammals,Spiritual-philosophical Fulfilment,-11.65,-62.74,18.7,Species Richness,2
+Maintain Current/Hyp,Small Mammals,Adequate Resources,0,-19.96,24.61,Species Richness,3
+Maintain Current/Hyp,Small Mammals,Aesthetically Pleasing Environment,0,-33.57,27.65,Species Richness,3
+Maintain Current/Hyp,Small Mammals,Benign Physical Environment,0,-35.52,36.57,Species Richness,3
+Maintain Current/Hyp,Small Mammals,Cultural Heritage Fulfilment,0,-33.57,27.65,Species Richness,3
+Maintain Current/Hyp,Small Mammals,Meaningful Occupation,0,-19.96,24.61,Species Richness,3
+Maintain Current/Hyp,Small Mammals,Protection from other Organisms,0,-19.96,24.61,Species Richness,3
+Maintain Current/Hyp,Small Mammals,Recreational Enjoyment,0,-33.57,27.65,Species Richness,3
+Maintain Current/Hyp,Small Mammals,Social Fulfilment,0,-17.48,30.52,Species Richness,3
+Maintain Current/Hyp,Small Mammals,Spiritual-philosophical Fulfilment,0,-37.09,18.7,Species Richness,3
+Maintain Current/Hyp/Rei,Small Mammals,Adequate Resources,2.61,-18.39,24.61,Species Richness,4
+Maintain Current/Hyp/Rei,Small Mammals,Aesthetically Pleasing Environment,3.65,-28.35,27.65,Species Richness,4
+Maintain Current/Hyp/Rei,Small Mammals,Benign Physical Environment,1.57,-33.43,36.57,Species Richness,4
+Maintain Current/Hyp/Rei,Small Mammals,Cultural Heritage Fulfilment,3.65,-28.35,27.65,Species Richness,4
+Maintain Current/Hyp/Rei,Small Mammals,Meaningful Occupation,2.61,-18.39,24.61,Species Richness,4
+Maintain Current/Hyp/Rei,Small Mammals,Protection from other Organisms,2.61,-18.39,24.61,Species Richness,4
+Maintain Current/Hyp/Rei,Small Mammals,Recreational Enjoyment,3.65,-28.35,27.65,Species Richness,4
+Maintain Current/Hyp/Rei,Small Mammals,Social Fulfilment,0.52,-17.48,30.52,Species Richness,4
+Maintain Current/Hyp/Rei,Small Mammals,Spiritual-philosophical Fulfilment,4.7,-30.3,18.7,Species Richness,4
+Maintain Current/Hyp/Rei/SW,Small Mammals,Adequate Resources,2.61,-18.39,24.61,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Small Mammals,Aesthetically Pleasing Environment,3.65,-28.35,27.65,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Small Mammals,Benign Physical Environment,1.57,-33.43,36.57,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Small Mammals,Cultural Heritage Fulfilment,3.65,-28.35,27.65,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Small Mammals,Meaningful Occupation,2.61,-18.39,24.61,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Small Mammals,Protection from other Organisms,2.61,-18.39,24.61,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Small Mammals,Recreational Enjoyment,3.65,-28.35,27.65,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Small Mammals,Social Fulfilment,0.52,-17.48,30.52,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Small Mammals,Spiritual-philosophical Fulfilment,4.7,-30.3,18.7,Species Richness,5
+Maintain Current/Hyp/SW,Small Mammals,Adequate Resources,0,-19.96,24.61,Species Richness,6
+Maintain Current/Hyp/SW,Small Mammals,Aesthetically Pleasing Environment,0,-33.57,27.65,Species Richness,6
+Maintain Current/Hyp/SW,Small Mammals,Benign Physical Environment,0,-35.52,36.57,Species Richness,6
+Maintain Current/Hyp/SW,Small Mammals,Cultural Heritage Fulfilment,0,-33.57,27.65,Species Richness,6
+Maintain Current/Hyp/SW,Small Mammals,Meaningful Occupation,0,-19.96,24.61,Species Richness,6
+Maintain Current/Hyp/SW,Small Mammals,Protection from other Organisms,0,-19.96,24.61,Species Richness,6
+Maintain Current/Hyp/SW,Small Mammals,Recreational Enjoyment,0,-33.57,27.65,Species Richness,6
+Maintain Current/Hyp/SW,Small Mammals,Social Fulfilment,0,-17.48,30.52,Species Richness,6
+Maintain Current/Hyp/SW,Small Mammals,Spiritual-philosophical Fulfilment,0,-37.09,18.7,Species Richness,6
+Maintain Current/Rei,Small Mammals,Adequate Resources,2.61,-18.39,24.61,Species richness,7
+Maintain Current/Rei,Small Mammals,Aesthetically Pleasing Environment,3.65,-28.35,27.65,Species richness,7
+Maintain Current/Rei,Small Mammals,Benign Physical Environment,1.57,-33.43,36.57,Species richness,7
+Maintain Current/Rei,Small Mammals,Cultural Heritage Fulfilment,3.65,-28.35,27.65,Species richness,7
+Maintain Current/Rei,Small Mammals,Meaningful Occupation,2.61,-18.39,24.61,Species richness,7
+Maintain Current/Rei,Small Mammals,Protection from other Organisms,2.61,-18.39,24.61,Species richness,7
+Maintain Current/Rei,Small Mammals,Recreational Enjoyment,3.65,-28.35,27.65,Species richness,7
+Maintain Current/Rei,Small Mammals,Social Fulfilment,0.52,-17.48,30.52,Species richness,7
+Maintain Current/Rei,Small Mammals,Spiritual-philosophical Fulfilment,4.7,-30.3,18.7,Species richness,7
+Maintain Current/Rei/SW,Small Mammals,Adequate Resources,2.61,-18.39,24.61,Species richness,8
+Maintain Current/Rei/SW,Small Mammals,Aesthetically Pleasing Environment,3.65,-28.35,27.65,Species richness,8
+Maintain Current/Rei/SW,Small Mammals,Benign Physical Environment,1.57,-33.43,36.57,Species richness,8
+Maintain Current/Rei/SW,Small Mammals,Cultural Heritage Fulfilment,3.65,-28.35,27.65,Species richness,8
+Maintain Current/Rei/SW,Small Mammals,Meaningful Occupation,2.61,-18.39,24.61,Species richness,8
+Maintain Current/Rei/SW,Small Mammals,Protection from other Organisms,2.61,-18.39,24.61,Species richness,8
+Maintain Current/Rei/SW,Small Mammals,Recreational Enjoyment,3.65,-28.35,27.65,Species richness,8
+Maintain Current/Rei/SW,Small Mammals,Social Fulfilment,0.52,-17.48,30.52,Species richness,8
+Maintain Current/Rei/SW,Small Mammals,Spiritual-philosophical Fulfilment,4.7,-30.3,18.7,Species richness,8
+Maintain Current/SW,Small Mammals,Adequate Resources,-4.65,-29.83,24.61,Species richness,9
+Maintain Current/SW,Small Mammals,Aesthetically Pleasing Environment,-9.57,-46.78,27.65,Species richness,9
+Maintain Current/SW,Small Mammals,Benign Physical Environment,-3.13,-37.43,36.57,Species richness,9
+Maintain Current/SW,Small Mammals,Cultural Heritage Fulfilment,-9.57,-46.78,27.65,Species richness,9
+Maintain Current/SW,Small Mammals,Meaningful Occupation,-4.65,-29.83,24.61,Species richness,9
+Maintain Current/SW,Small Mammals,Protection from other Organisms,-4.65,-29.83,24.61,Species richness,9
+Maintain Current/SW,Small Mammals,Recreational Enjoyment,-9.57,-46.78,27.65,Species richness,9
+Maintain Current/SW,Small Mammals,Social Fulfilment,-2.17,-17.48,30.52,Species richness,9
+Maintain Current/SW,Small Mammals,Spiritual-philosophical Fulfilment,-11.65,-62.74,18.7,Species richness,9
+Do nothing,Terrestrial Birds,Adequate Resources,-2.52,-26.56,20.86,Species Richness,1
+Do nothing,Terrestrial Birds,Aesthetically Pleasing Environment,-6.33,-42.73,24.54,Species Richness,1
+Do nothing,Terrestrial Birds,Benign Physical Environment,-1.82,-36.27,33.18,Species Richness,1
+Do nothing,Terrestrial Birds,Cultural Heritage Fulfilment,-6.33,-42.73,24.54,Species Richness,1
+Do nothing,Terrestrial Birds,Meaningful Occupation,-2.52,-26.56,20.86,Species Richness,1
+Do nothing,Terrestrial Birds,Protection from other Organisms,-2.52,-26.56,20.86,Species Richness,1
+Do nothing,Terrestrial Birds,Recreational Enjoyment,-6.33,-42.73,24.54,Species Richness,1
+Do nothing,Terrestrial Birds,Social Fulfilment,-2.52,-26.56,20.86,Species Richness,1
+Do nothing,Terrestrial Birds,Spiritual-philosophical Fulfilment,-6.33,-42.73,24.54,Species Richness,1
+Maintain Current,Terrestrial Birds,Adequate Resources,-1,-21.19,22.76,Species Richness,2
+Maintain Current,Terrestrial Birds,Aesthetically Pleasing Environment,-2.15,-37.37,26.58,Species Richness,2
+Maintain Current,Terrestrial Birds,Benign Physical Environment,-0.68,-36.27,34.7,Species Richness,2
+Maintain Current,Terrestrial Birds,Cultural Heritage Fulfilment,-2.15,-37.37,26.58,Species Richness,2
+Maintain Current,Terrestrial Birds,Meaningful Occupation,-1,-21.19,22.76,Species Richness,2
+Maintain Current,Terrestrial Birds,Protection from other Organisms,-1,-21.19,22.76,Species Richness,2
+Maintain Current,Terrestrial Birds,Recreational Enjoyment,-2.15,-37.37,26.58,Species Richness,2
+Maintain Current,Terrestrial Birds,Social Fulfilment,-1,-21.19,22.76,Species Richness,2
+Maintain Current,Terrestrial Birds,Spiritual-philosophical Fulfilment,-2.15,-37.37,26.58,Species Richness,2
+Maintain Current/Hyp,Terrestrial Birds,Adequate Resources,4.56,-17.13,26.56,Species Richness,3
+Maintain Current/Hyp,Terrestrial Birds,Aesthetically Pleasing Environment,6.38,-27.9,30.38,Species Richness,3
+Maintain Current/Hyp,Terrestrial Birds,Benign Physical Environment,2.73,-33.18,37.73,Species Richness,3
+Maintain Current/Hyp,Terrestrial Birds,Cultural Heritage Fulfilment,6.38,-27.9,30.38,Species Richness,3
+Maintain Current/Hyp,Terrestrial Birds,Meaningful Occupation,4.56,-17.13,26.56,Species Richness,3
+Maintain Current/Hyp,Terrestrial Birds,Protection from other Organisms,4.56,-17.13,26.56,Species Richness,3
+Maintain Current/Hyp,Terrestrial Birds,Recreational Enjoyment,6.38,-27.9,30.38,Species Richness,3
+Maintain Current/Hyp,Terrestrial Birds,Social Fulfilment,4.56,-17.13,26.56,Species Richness,3
+Maintain Current/Hyp,Terrestrial Birds,Spiritual-philosophical Fulfilment,6.38,-27.9,30.38,Species Richness,3
+Maintain Current/Hyp/Rei,Terrestrial Birds,Adequate Resources,4.56,-17.13,26.56,Species Richness,4
+Maintain Current/Hyp/Rei,Terrestrial Birds,Aesthetically Pleasing Environment,6.38,-27.9,30.38,Species Richness,4
+Maintain Current/Hyp/Rei,Terrestrial Birds,Benign Physical Environment,2.73,-33.18,37.73,Species Richness,4
+Maintain Current/Hyp/Rei,Terrestrial Birds,Cultural Heritage Fulfilment,6.38,-27.9,30.38,Species Richness,4
+Maintain Current/Hyp/Rei,Terrestrial Birds,Meaningful Occupation,4.56,-17.13,26.56,Species Richness,4
+Maintain Current/Hyp/Rei,Terrestrial Birds,Protection from other Organisms,4.56,-17.13,26.56,Species Richness,4
+Maintain Current/Hyp/Rei,Terrestrial Birds,Recreational Enjoyment,6.38,-27.9,30.38,Species Richness,4
+Maintain Current/Hyp/Rei,Terrestrial Birds,Social Fulfilment,4.56,-17.13,26.56,Species Richness,4
+Maintain Current/Hyp/Rei,Terrestrial Birds,Spiritual-philosophical Fulfilment,6.38,-27.9,30.38,Species Richness,4
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Adequate Resources,4.56,-17.13,26.56,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Aesthetically Pleasing Environment,6.38,-27.9,30.38,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Benign Physical Environment,2.73,-33.18,37.73,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Cultural Heritage Fulfilment,6.38,-27.9,30.38,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Meaningful Occupation,4.56,-17.13,26.56,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Protection from other Organisms,4.56,-17.13,26.56,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Recreational Enjoyment,6.38,-27.9,30.38,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Social Fulfilment,4.56,-17.13,26.56,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Terrestrial Birds,Spiritual-philosophical Fulfilment,6.38,-27.9,30.38,Species Richness,5
+Maintain Current/Hyp/SW,Terrestrial Birds,Adequate Resources,4.56,-17.13,26.56,Species Richness,6
+Maintain Current/Hyp/SW,Terrestrial Birds,Aesthetically Pleasing Environment,6.38,-27.9,30.38,Species Richness,6
+Maintain Current/Hyp/SW,Terrestrial Birds,Benign Physical Environment,2.73,-33.18,37.73,Species Richness,6
+Maintain Current/Hyp/SW,Terrestrial Birds,Cultural Heritage Fulfilment,6.38,-27.9,30.38,Species Richness,6
+Maintain Current/Hyp/SW,Terrestrial Birds,Meaningful Occupation,4.56,-17.13,26.56,Species Richness,6
+Maintain Current/Hyp/SW,Terrestrial Birds,Protection from other Organisms,4.56,-17.13,26.56,Species Richness,6
+Maintain Current/Hyp/SW,Terrestrial Birds,Recreational Enjoyment,6.38,-27.9,30.38,Species Richness,6
+Maintain Current/Hyp/SW,Terrestrial Birds,Social Fulfilment,4.56,-17.13,26.56,Species Richness,6
+Maintain Current/Hyp/SW,Terrestrial Birds,Spiritual-philosophical Fulfilment,6.38,-27.9,30.38,Species Richness,6
+Maintain Current/Rei,Terrestrial Birds,Adequate Resources,-1,-21.19,22.76,Species Richness,7
+Maintain Current/Rei,Terrestrial Birds,Aesthetically Pleasing Environment,-2.15,-37.37,26.58,Species Richness,7
+Maintain Current/Rei,Terrestrial Birds,Benign Physical Environment,-0.68,-36.27,34.7,Species Richness,7
+Maintain Current/Rei,Terrestrial Birds,Cultural Heritage Fulfilment,-2.15,-37.37,26.58,Species Richness,7
+Maintain Current/Rei,Terrestrial Birds,Meaningful Occupation,-1,-21.19,22.76,Species Richness,7
+Maintain Current/Rei,Terrestrial Birds,Protection from other Organisms,-1,-21.19,22.76,Species Richness,7
+Maintain Current/Rei,Terrestrial Birds,Recreational Enjoyment,-2.15,-37.37,26.58,Species Richness,7
+Maintain Current/Rei,Terrestrial Birds,Social Fulfilment,-1,-21.19,22.76,Species Richness,7
+Maintain Current/Rei,Terrestrial Birds,Spiritual-philosophical Fulfilment,-2.15,-37.37,26.58,Species Richness,7
+Maintain Current/Rei/SW,Terrestrial Birds,Adequate Resources,-1,-21.19,22.76,Species Richness,8
+Maintain Current/Rei/SW,Terrestrial Birds,Aesthetically Pleasing Environment,-2.15,-37.37,26.58,Species Richness,8
+Maintain Current/Rei/SW,Terrestrial Birds,Benign Physical Environment,-0.68,-36.27,34.7,Species Richness,8
+Maintain Current/Rei/SW,Terrestrial Birds,Cultural Heritage Fulfilment,-2.15,-37.37,26.58,Species Richness,8
+Maintain Current/Rei/SW,Terrestrial Birds,Meaningful Occupation,-1,-21.19,22.76,Species Richness,8
+Maintain Current/Rei/SW,Terrestrial Birds,Protection from other Organisms,-1,-21.19,22.76,Species Richness,8
+Maintain Current/Rei/SW,Terrestrial Birds,Recreational Enjoyment,-2.15,-37.37,26.58,Species Richness,8
+Maintain Current/Rei/SW,Terrestrial Birds,Social Fulfilment,-1,-21.19,22.76,Species Richness,8
+Maintain Current/Rei/SW,Terrestrial Birds,Spiritual-philosophical Fulfilment,-2.15,-37.37,26.58,Species Richness,8
+Maintain Current/SW,Terrestrial Birds,Adequate Resources,-1,-21.19,22.76,Species Richness,9
+Maintain Current/SW,Terrestrial Birds,Aesthetically Pleasing Environment,-2.15,-37.37,26.58,Species Richness,9
+Maintain Current/SW,Terrestrial Birds,Benign Physical Environment,-0.68,-36.27,34.7,Species Richness,9
+Maintain Current/SW,Terrestrial Birds,Cultural Heritage Fulfilment,-2.15,-37.37,26.58,Species Richness,9
+Maintain Current/SW,Terrestrial Birds,Meaningful Occupation,-1,-21.19,22.76,Species Richness,9
+Maintain Current/SW,Terrestrial Birds,Protection from other Organisms,-1,-21.19,22.76,Species Richness,9
+Maintain Current/SW,Terrestrial Birds,Recreational Enjoyment,-2.15,-37.37,26.58,Species Richness,9
+Maintain Current/SW,Terrestrial Birds,Social Fulfilment,-1,-21.19,22.76,Species Richness,9
+Maintain Current/SW,Terrestrial Birds,Spiritual-philosophical Fulfilment,-2.15,-37.37,26.58,Species Richness,9
+Do nothing,Water Birds,Adequate Resources,-1.66,-37.09,28.41,Species Richness,1
+Do nothing,Water Birds,Aesthetically Pleasing Environment,-1.66,-37.09,28.41,Species Richness,1
+Do nothing,Water Birds,Benign Physical Environment,-0.45,-15.92,30.3,Species Richness,1
+Do nothing,Water Birds,Cultural Heritage Fulfilment,-1.66,-37.09,28.41,Species Richness,1
+Do nothing,Water Birds,Meaningful Occupation,-0.45,-15.92,30.3,Species Richness,1
+Do nothing,Water Birds,Protection from other Organisms,-0.45,-15.92,30.3,Species Richness,1
+Do nothing,Water Birds,Recreational Enjoyment,-1.66,-37.09,28.41,Species Richness,1
+Do nothing,Water Birds,Social Fulfilment,-0.61,-23.62,22.14,Species Richness,1
+Do nothing,Water Birds,Spiritual-philosophical Fulfilment,-1.66,-37.09,28.41,Species Richness,1
+Maintain Current,Water Birds,Adequate Resources,-0.55,-34.1,28.71,Species Richness,2
+Maintain Current,Water Birds,Aesthetically Pleasing Environment,-0.55,-34.1,28.71,Species Richness,2
+Maintain Current,Water Birds,Benign Physical Environment,-0.15,-15.92,30.45,Species Richness,2
+Maintain Current,Water Birds,Cultural Heritage Fulfilment,-0.55,-34.1,28.71,Species Richness,2
+Maintain Current,Water Birds,Meaningful Occupation,-0.15,-15.92,30.45,Species Richness,2
+Maintain Current,Water Birds,Protection from other Organisms,-0.15,-15.92,30.45,Species Richness,2
+Maintain Current,Water Birds,Recreational Enjoyment,-0.55,-34.1,28.71,Species Richness,2
+Maintain Current,Water Birds,Social Fulfilment,-0.2,-20.63,22.39,Species Richness,2
+Maintain Current,Water Birds,Spiritual-philosophical Fulfilment,-0.55,-34.1,28.71,Species Richness,2
+Maintain Current/Hyp,Water Birds,Adequate Resources,10.97,-31.08,34.97,Species Richness,3
+Maintain Current/Hyp,Water Birds,Aesthetically Pleasing Environment,10.97,-31.08,34.97,Species Richness,3
+Maintain Current/Hyp,Water Birds,Benign Physical Environment,2.08,-15.92,32.08,Species Richness,3
+Maintain Current/Hyp,Water Birds,Cultural Heritage Fulfilment,10.97,-31.08,34.97,Species Richness,3
+Maintain Current/Hyp,Water Birds,Meaningful Occupation,2.08,-15.92,32.08,Species Richness,3
+Maintain Current/Hyp,Water Birds,Protection from other Organisms,2.08,-15.92,32.08,Species Richness,3
+Maintain Current/Hyp,Water Birds,Recreational Enjoyment,10.97,-31.08,34.97,Species Richness,3
+Maintain Current/Hyp,Water Birds,Social Fulfilment,6.45,-17.61,28.45,Species Richness,3
+Maintain Current/Hyp,Water Birds,Spiritual-philosophical Fulfilment,10.97,-31.08,34.97,Species Richness,3
+Maintain Current/Hyp/Rei,Water Birds,Adequate Resources,10.97,-31.08,34.97,Species Richness,4
+Maintain Current/Hyp/Rei,Water Birds,Aesthetically Pleasing Environment,10.97,-31.08,34.97,Species Richness,4
+Maintain Current/Hyp/Rei,Water Birds,Benign Physical Environment,2.08,-15.92,32.08,Species Richness,4
+Maintain Current/Hyp/Rei,Water Birds,Cultural Heritage Fulfilment,10.97,-31.08,34.97,Species Richness,4
+Maintain Current/Hyp/Rei,Water Birds,Meaningful Occupation,2.08,-15.92,32.08,Species Richness,4
+Maintain Current/Hyp/Rei,Water Birds,Protection from other Organisms,2.08,-15.92,32.08,Species Richness,4
+Maintain Current/Hyp/Rei,Water Birds,Recreational Enjoyment,10.97,-31.08,34.97,Species Richness,4
+Maintain Current/Hyp/Rei,Water Birds,Social Fulfilment,6.45,-17.61,28.45,Species Richness,4
+Maintain Current/Hyp/Rei,Water Birds,Spiritual-philosophical Fulfilment,10.97,-31.08,34.97,Species Richness,4
+Maintain Current/Hyp/Rei/SW,Water Birds,Adequate Resources,10.97,-31.08,34.97,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Water Birds,Aesthetically Pleasing Environment,10.97,-31.08,34.97,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Water Birds,Benign Physical Environment,2.08,-15.92,32.08,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Water Birds,Cultural Heritage Fulfilment,10.97,-31.08,34.97,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Water Birds,Meaningful Occupation,2.08,-15.92,32.08,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Water Birds,Protection from other Organisms,2.08,-15.92,32.08,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Water Birds,Recreational Enjoyment,10.97,-31.08,34.97,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Water Birds,Social Fulfilment,6.45,-17.61,28.45,Species Richness,5
+Maintain Current/Hyp/Rei/SW,Water Birds,Spiritual-philosophical Fulfilment,10.97,-31.08,34.97,Species Richness,5
+Maintain Current/Hyp/SW,Water Birds,Adequate Resources,10.97,-31.08,34.97,Species Richness,6
+Maintain Current/Hyp/SW,Water Birds,Aesthetically Pleasing Environment,10.97,-31.08,34.97,Species Richness,6
+Maintain Current/Hyp/SW,Water Birds,Benign Physical Environment,2.08,-15.92,32.08,Species Richness,6
+Maintain Current/Hyp/SW,Water Birds,Cultural Heritage Fulfilment,10.97,-31.08,34.97,Species Richness,6
+Maintain Current/Hyp/SW,Water Birds,Meaningful Occupation,2.08,-15.92,32.08,Species Richness,6
+Maintain Current/Hyp/SW,Water Birds,Protection from other Organisms,2.08,-15.92,32.08,Species Richness,6
+Maintain Current/Hyp/SW,Water Birds,Recreational Enjoyment,10.97,-31.08,34.97,Species Richness,6
+Maintain Current/Hyp/SW,Water Birds,Social Fulfilment,6.45,-17.61,28.45,Species Richness,6
+Maintain Current/Hyp/SW,Water Birds,Spiritual-philosophical Fulfilment,10.97,-31.08,34.97,Species Richness,6
+Maintain Current/Rei,Water Birds,Adequate Resources,-0.55,-34.1,28.71,Species Richness,7
+Maintain Current/Rei,Water Birds,Aesthetically Pleasing Environment,-0.55,-34.1,28.71,Species Richness,7
+Maintain Current/Rei,Water Birds,Benign Physical Environment,-0.15,-15.92,30.45,Species Richness,7
+Maintain Current/Rei,Water Birds,Cultural Heritage Fulfilment,-0.55,-34.1,28.71,Species Richness,7
+Maintain Current/Rei,Water Birds,Meaningful Occupation,-0.15,-15.92,30.45,Species Richness,7
+Maintain Current/Rei,Water Birds,Protection from other Organisms,-0.15,-15.92,30.45,Species Richness,7
+Maintain Current/Rei,Water Birds,Recreational Enjoyment,-0.55,-34.1,28.71,Species Richness,7
+Maintain Current/Rei,Water Birds,Social Fulfilment,-0.2,-20.63,22.39,Species Richness,7
+Maintain Current/Rei,Water Birds,Spiritual-philosophical Fulfilment,-0.55,-34.1,28.71,Species Richness,7
+Maintain Current/Rei/SW,Water Birds,Adequate Resources,-0.55,-34.1,28.71,Species Richness,8
+Maintain Current/Rei/SW,Water Birds,Aesthetically Pleasing Environment,-0.55,-34.1,28.71,Species Richness,8
+Maintain Current/Rei/SW,Water Birds,Benign Physical Environment,-0.15,-15.92,30.45,Species Richness,8
+Maintain Current/Rei/SW,Water Birds,Cultural Heritage Fulfilment,-0.55,-34.1,28.71,Species Richness,8
+Maintain Current/Rei/SW,Water Birds,Meaningful Occupation,-0.15,-15.92,30.45,Species Richness,8
+Maintain Current/Rei/SW,Water Birds,Protection from other Organisms,-0.15,-15.92,30.45,Species Richness,8
+Maintain Current/Rei/SW,Water Birds,Recreational Enjoyment,-0.55,-34.1,28.71,Species Richness,8
+Maintain Current/Rei/SW,Water Birds,Social Fulfilment,-0.2,-20.63,22.39,Species Richness,8
+Maintain Current/Rei/SW,Water Birds,Spiritual-philosophical Fulfilment,-0.55,-34.1,28.71,Species Richness,8
+Maintain Current/SW,Water Birds,Adequate Resources,-0.55,-34.1,28.71,Species Richness,9
+Maintain Current/SW,Water Birds,Aesthetically Pleasing Environment,-0.55,-34.1,28.71,Species Richness,9
+Maintain Current/SW,Water Birds,Benign Physical Environment,-0.15,-15.92,30.45,Species Richness,9
+Maintain Current/SW,Water Birds,Cultural Heritage Fulfilment,-0.55,-34.1,28.71,Species Richness,9
+Maintain Current/SW,Water Birds,Meaningful Occupation,-0.15,-15.92,30.45,Species Richness,9
+Maintain Current/SW,Water Birds,Protection from other Organisms,-0.15,-15.92,30.45,Species Richness,9
+Maintain Current/SW,Water Birds,Recreational Enjoyment,-0.55,-34.1,28.71,Species Richness,9
+Maintain Current/SW,Water Birds,Social Fulfilment,-0.2,-20.63,22.39,Species Richness,9
+Maintain Current/SW,Water Birds,Spiritual-philosophical Fulfilment,-0.55,-34.1,28.71,Species Richness,9
